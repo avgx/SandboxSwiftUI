@@ -1,0 +1,33 @@
+{
+  "result": [
+    {
+      "count": 112316,
+      "time.weekday": "thursday"
+    },
+    {
+      "count": 151029,
+      "time.weekday": "tuesday"
+    },
+    {
+      "count": 35817,
+      "time.weekday": "friday"
+    },
+    {
+      "count": 173967,
+      "time.weekday": "monday"
+    },
+    {
+      "count": 152145,
+      "time.weekday": "saturday"
+    },
+    {
+      "count": 206379,
+      "time.weekday": "sunday"
+    },
+    {
+      "count": 135714,
+      "time.weekday": "wednesday"
+    }
+  ],
+  "total": 7
+}

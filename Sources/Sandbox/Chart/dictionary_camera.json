@@ -1,0 +1,130 @@
+{
+  "result": [
+    {
+      "key": "A-KUDAEV/DeviceIpint.3/SourceEndpoint.video:0:0",
+      "value": "3.vt_exit"
+    },
+    {
+      "key": "AIDA/DeviceIpint.6/SourceEndpoint.video:0:0",
+      "value": "6.cars"
+    },
+    {
+      "key": "M-CHERKESOV/DeviceIpint.8/SourceEndpoint.video:0:0",
+      "value": "8.temperature"
+    },
+    {
+      "key": "M-CHERKESOV/DeviceIpint.3/SourceEndpoint.video:0:0",
+      "value": "3.vhcls_exit"
+    },
+    {
+      "key": "AIDA/DeviceIpint.13/SourceEndpoint.video:0:0",
+      "value": "13.Count"
+    },
+    {
+      "key": "M-CHERKESOV/DeviceIpint.5/SourceEndpoint.video:0:0",
+      "value": "5.visitors"
+    },
+    {
+      "key": "ARTEM-DESKTOP/DeviceIpint.1/SourceEndpoint.video:0:0",
+      "value": "1.FacesIn"
+    },
+    {
+      "key": "AIDA/DeviceIpint.1/SourceEndpoint.video:0:0",
+      "value": "1.Камера"
+    },
+    {
+      "key": "AIDA/DeviceIpint.2/SourceEndpoint.video:0:0",
+      "value": "2.LPR"
+    },
+    {
+      "key": "A-KUDAEV/DeviceIpint.6/SourceEndpoint.video:0:0",
+      "value": "6.queue"
+    },
+    {
+      "key": "A-KUDAEV/DeviceIpint.1/SourceEndpoint.video:0:0",
+      "value": "1.faces"
+    },
+    {
+      "key": "AIDA/DeviceIpint.20/SourceEndpoint.video:0:0",
+      "value": "20.track"
+    },
+    {
+      "key": "AIDA/DeviceIpint.24/SourceEndpoint.video:0:0",
+      "value": "24.mask"
+    },
+    {
+      "key": "M-CHERKESOV/DeviceIpint.6/SourceEndpoint.video:0:0",
+      "value": "6.queue"
+    },
+    {
+      "key": "AIDA/DeviceIpint.21/SourceEndpoint.video:0:0",
+      "value": "21.count"
+    },
+    {
+      "key": "AIDA/DeviceIpint.8/SourceEndpoint.video:0:0",
+      "value": "8.mask"
+    },
+    {
+      "key": "M-CHERKESOV/DeviceIpint.1/SourceEndpoint.video:0:0",
+      "value": "1.faces"
+    },
+    {
+      "key": "A-KUDAEV/DeviceIpint.2/SourceEndpoint.video:0:0",
+      "value": "2.vt_enter"
+    },
+    {
+      "key": "SMART-GENERATOR/DeviceIpint.5/SourceEndpoint.video:0:0",
+      "value": "5.smart_generator"
+    },
+    {
+      "key": "AIDA/DeviceIpint.15/SourceEndpoint.video:0:0",
+      "value": "15.Queue"
+    },
+    {
+      "key": "M-CHERKESOV/DeviceIpint.2/SourceEndpoint.video:0:0",
+      "value": "2.vhcls_enter"
+    },
+    {
+      "key": "A-KUDAEV/DeviceIpint.30/SourceEndpoint.video:0:0",
+      "value": "30.Камера"
+    },
+    {
+      "key": "M-CHERKESOV/DeviceIpint.7/SourceEndpoint.video:0:0",
+      "value": "7.dist"
+    },
+    {
+      "key": "A-KUDAEV/DeviceIpint.5/SourceEndpoint.video:0:0",
+      "value": "5.visitors"
+    },
+    {
+      "key": "M-CHERKESOV/DeviceIpint.4/SourceEndpoint.video:0:0",
+      "value": "4.equipment"
+    },
+    {
+      "key": "T-OZARUKOV-1/DeviceIpint.17/SourceEndpoint.video:0:0",
+      "value": "17.Tracker"
+    },
+    {
+      "key": "A-KUDAEV/DeviceIpint.8/SourceEndpoint.video:0:0",
+      "value": "8.temperature"
+    },
+    {
+      "key": "A-KUDAEV/DeviceIpint.4/SourceEndpoint.video:0:0",
+      "value": "4.equipment"
+    },
+    {
+      "key": "AIDA/DeviceIpint.7/SourceEndpoint.video:0:0",
+      "value": "7.face"
+    },
+    {
+      "key": "A-KUDAEV/DeviceIpint.7/SourceEndpoint.video:0:0",
+      "value": "7.dist"
+    },
+    {
+      "key": "ARTEM-DESKTOP/DeviceIpint.2/SourceEndpoint.video:0:0",
+      "value": "2.FacesOut"
+    }
+  ],
+  "status": 200,
+  "total": 31
+}

@@ -1,0 +1,3230 @@
+{
+  "result": [
+    {
+      "count": 703,
+      "detector.type": "listed_face_detected",
+      "time.min_of_day_x30": "04:30"
+    },
+    {
+      "count": 2141,
+      "detector.type": "oneLine",
+      "time.min_of_day_x30": "10:00"
+    },
+    {
+      "count": 3586,
+      "detector.type": "EvasionDetected",
+      "time.min_of_day_x30": "09:30"
+    },
+    {
+      "count": 1283,
+      "detector.type": "EvasionDetected",
+      "time.min_of_day_x30": "00:00"
+    },
+    {
+      "count": 228,
+      "detector.type": "NoHandSegment",
+      "time.min_of_day_x30": "08:30"
+    },
+    {
+      "count": 1343,
+      "detector.type": "listed_lpr_detected",
+      "time.min_of_day_x30": "23:30"
+    },
+    {
+      "count": 702,
+      "detector.type": "listed_face_detected",
+      "time.min_of_day_x30": "05:30"
+    },
+    {
+      "count": 298,
+      "detector.type": "NoHeadSegment",
+      "time.min_of_day_x30": "15:00"
+    },
+    {
+      "count": 2913,
+      "detector.type": "EvasionDetected",
+      "time.min_of_day_x30": "08:30"
+    },
+    {
+      "count": 1294,
+      "detector.type": "EvasionDetected",
+      "time.min_of_day_x30": "01:00"
+    },
+    {
+      "count": 1339,
+      "detector.type": "listed_lpr_detected",
+      "time.min_of_day_x30": "22:30"
+    },
+    {
+      "count": 699,
+      "detector.type": "listed_face_detected",
+      "time.min_of_day_x30": "06:30"
+    },
+    {
+      "count": 7028,
+      "detector.type": "faceAppeared",
+      "time.min_of_day_x30": "15:00"
+    },
+    {
+      "count": 1281,
+      "detector.type": "EvasionDetected",
+      "time.min_of_day_x30": "02:00"
+    },
+    {
+      "count": 1833,
+      "detector.type": "listed_lpr_detected",
+      "time.min_of_day_x30": "21:30"
+    },
+    {
+      "count": 701,
+      "detector.type": "listed_face_detected",
+      "time.min_of_day_x30": "07:30"
+    },
+    {
+      "count": 146,
+      "detector.type": "QueueDetected",
+      "time.min_of_day_x30": "04:30"
+    },
+    {
+      "count": 328,
+      "detector.type": "NoHandSegment",
+      "time.min_of_day_x30": "13:00"
+    },
+    {
+      "count": 208,
+      "detector.type": "People",
+      "time.min_of_day_x30": "06:30"
+    },
+    {
+      "count": 1287,
+      "detector.type": "EvasionDetected",
+      "time.min_of_day_x30": "03:00"
+    },
+    {
+      "count": 2944,
+      "detector.type": "listed_lpr_detected",
+      "time.min_of_day_x30": "20:30"
+    },
+    {
+      "count": 215,
+      "detector.type": "peopleDistance",
+      "time.min_of_day_x30": "09:00"
+    },
+    {
+      "count": 576,
+      "detector.type": "oneLine",
+      "time.min_of_day_x30": "00:00"
+    },
+    {
+      "count": 60,
+      "detector.type": "peopleDistance",
+      "time.min_of_day_x30": "00:30"
+    },
+    {
+      "count": 1154,
+      "detector.type": "oneLine",
+      "time.min_of_day_x30": "21:00"
+    },
+    {
+      "count": 153,
+      "detector.type": "NoHandSegment",
+      "time.min_of_day_x30": "18:30"
+    },
+    {
+      "count": 814,
+      "detector.type": "plateRecognized",
+      "time.min_of_day_x30": "05:30"
+    },
+    {
+      "count": 130,
+      "detector.type": "peopleDistance",
+      "time.min_of_day_x30": "08:00"
+    },
+    {
+      "count": 72,
+      "detector.type": "NoHeadSegment",
+      "time.min_of_day_x30": "05:00"
+    },
+    {
+      "count": 69,
+      "detector.type": "peopleDistance",
+      "time.min_of_day_x30": "01:30"
+    },
+    {
+      "count": 820,
+      "detector.type": "plateRecognized",
+      "time.min_of_day_x30": "04:30"
+    },
+    {
+      "count": 70,
+      "detector.type": "peopleDistance",
+      "time.min_of_day_x30": "02:30"
+    },
+    {
+      "count": 1382,
+      "detector.type": "faceAppeared",
+      "time.min_of_day_x30": "05:00"
+    },
+    {
+      "count": 813,
+      "detector.type": "plateRecognized",
+      "time.min_of_day_x30": "07:30"
+    },
+    {
+      "count": 71,
+      "detector.type": "NoHandSegment",
+      "time.min_of_day_x30": "03:00"
+    },
+    {
+      "count": 602,
+      "detector.type": "QueueDetected",
+      "time.min_of_day_x30": "14:30"
+    },
+    {
+      "count": 64,
+      "detector.type": "peopleDistance",
+      "time.min_of_day_x30": "03:30"
+    },
+    {
+      "count": 649,
+      "detector.type": "moveInZone",
+      "time.min_of_day_x30": "10:30"
+    },
+    {
+      "count": 75,
+      "detector.type": "NoHandSegment",
+      "time.min_of_day_x30": "22:00"
+    },
+    {
+      "count": 829,
+      "detector.type": "plateRecognized",
+      "time.min_of_day_x30": "06:30"
+    },
+    {
+      "count": 1209,
+      "detector.type": "People",
+      "time.min_of_day_x30": "16:30"
+    },
+    {
+      "count": 1746,
+      "detector.type": "oneLine",
+      "time.min_of_day_x30": "11:00"
+    },
+    {
+      "count": 3119,
+      "detector.type": "EvasionDetected",
+      "time.min_of_day_x30": "13:00"
+    },
+    {
+      "count": 304,
+      "detector.type": "NoHandSegment",
+      "time.min_of_day_x30": "09:30"
+    },
+    {
+      "count": 3548,
+      "detector.type": "listed_face_detected",
+      "time.min_of_day_x30": "17:30"
+    },
+    {
+      "count": 273,
+      "detector.type": "NoHeadSegment",
+      "time.min_of_day_x30": "14:00"
+    },
+    {
+      "count": 3493,
+      "detector.type": "EvasionDetected",
+      "time.min_of_day_x30": "12:00"
+    },
+    {
+      "count": 3835,
+      "detector.type": "listed_face_detected",
+      "time.min_of_day_x30": "16:30"
+    },
+    {
+      "count": 2999,
+      "detector.type": "EvasionDetected",
+      "time.min_of_day_x30": "11:00"
+    },
+    {
+      "count": 6470,
+      "detector.type": "faceAppeared",
+      "time.min_of_day_x30": "14:00"
+    },
+    {
+      "count": 2678,
+      "detector.type": "EvasionDetected",
+      "time.min_of_day_x30": "18:30"
+    },
+    {
+      "count": 3264,
+      "detector.type": "listed_face_detected",
+      "time.min_of_day_x30": "15:30"
+    },
+    {
+      "count": 150,
+      "detector.type": "QueueDetected",
+      "time.min_of_day_x30": "05:30"
+    },
+    {
+      "count": 283,
+      "detector.type": "NoHandSegment",
+      "time.min_of_day_x30": "12:00"
+    },
+    {
+      "count": 3554,
+      "detector.type": "EvasionDetected",
+      "time.min_of_day_x30": "10:00"
+    },
+    {
+      "count": 3398,
+      "detector.type": "EvasionDetected",
+      "time.min_of_day_x30": "19:30"
+    },
+    {
+      "count": 2794,
+      "detector.type": "listed_face_detected",
+      "time.min_of_day_x30": "14:30"
+    },
+    {
+      "count": 208,
+      "detector.type": "People",
+      "time.min_of_day_x30": "07:30"
+    },
+    {
+      "count": 5566,
+      "detector.type": "plateRecognized",
+      "time.min_of_day_x30": "16:30"
+    },
+    {
+      "count": 578,
+      "detector.type": "oneLine",
+      "time.min_of_day_x30": "01:00"
+    },
+    {
+      "count": 254,
+      "detector.type": "peopleDistance",
+      "time.min_of_day_x30": "13:30"
+    },
+    {
+      "count": 1670,
+      "detector.type": "oneLine",
+      "time.min_of_day_x30": "20:00"
+    },
+    {
+      "count": 218,
+      "detector.type": "NoHandSegment",
+      "time.min_of_day_x30": "19:30"
+    },
+    {
+      "count": 4691,
+      "detector.type": "plateRecognized",
+      "time.min_of_day_x30": "17:30"
+    },
+    {
+      "count": 67,
+      "detector.type": "NoHeadSegment",
+      "time.min_of_day_x30": "04:00"
+    },
+    {
+      "count": 262,
+      "detector.type": "peopleDistance",
+      "time.min_of_day_x30": "12:30"
+    },
+    {
+      "count": 1384,
+      "detector.type": "faceAppeared",
+      "time.min_of_day_x30": "04:00"
+    },
+    {
+      "count": 6099,
+      "detector.type": "plateRecognized",
+      "time.min_of_day_x30": "14:30"
+    },
+    {
+      "count": 272,
+      "detector.type": "peopleDistance",
+      "time.min_of_day_x30": "11:30"
+    },
+    {
+      "count": 137,
+      "detector.type": "peopleDistance",
+      "time.min_of_day_x30": "18:00"
+    },
+    {
+      "count": 6238,
+      "detector.type": "plateRecognized",
+      "time.min_of_day_x30": "15:30"
+    },
+    {
+      "count": 577,
+      "detector.type": "moveInZone",
+      "time.min_of_day_x30": "11:30"
+    },
+    {
+      "count": 80,
+      "detector.type": "NoHandSegment",
+      "time.min_of_day_x30": "02:00"
+    },
+    {
+      "count": 585,
+      "detector.type": "QueueDetected",
+      "time.min_of_day_x30": "15:30"
+    },
+    {
+      "count": 1048,
+      "detector.type": "People",
+      "time.min_of_day_x30": "17:30"
+    },
+    {
+      "count": 153,
+      "detector.type": "peopleDistance",
+      "time.min_of_day_x30": "10:30"
+    },
+    {
+      "count": 78,
+      "detector.type": "NoHandSegment",
+      "time.min_of_day_x30": "23:00"
+    },
+    {
+      "count": 140,
+      "detector.type": "peopleDistance",
+      "time.min_of_day_x30": "19:00"
+    },
+    {
+      "count": 70,
+      "detector.type": "peopleDistance",
+      "time.min_of_day_x30": "23:30"
+    },
+    {
+      "count": 1351,
+      "detector.type": "bodyTemperature",
+      "time.min_of_day_x30": "16:30"
+    },
+    {
+      "count": 2474,
+      "detector.type": "oneLine",
+      "time.min_of_day_x30": "12:00"
+    },
+    {
+      "count": 72,
+      "detector.type": "peopleDistance",
+      "time.min_of_day_x30": "22:30"
+    },
+    {
+      "count": 1436,
+      "detector.type": "bodyTemperature",
+      "time.min_of_day_x30": "17:30"
+    },
+    {
+      "count": 134,
+      "detector.type": "NoHeadSegment",
+      "time.min_of_day_x30": "17:00"
+    },
+    {
+      "count": 6906,
+      "detector.type": "faceAppeared",
+      "time.min_of_day_x30": "17:00"
+    },
+    {
+      "count": 98,
+      "detector.type": "peopleDistance",
+      "time.min_of_day_x30": "21:30"
+    },
+    {
+      "count": 1471,
+      "detector.type": "bodyTemperature",
+      "time.min_of_day_x30": "14:30"
+    },
+    {
+      "count": 211,
+      "detector.type": "People",
+      "time.min_of_day_x30": "04:30"
+    },
+    {
+      "count": 2373,
+      "detector.type": "oneLine",
+      "time.min_of_day_x30": "09:30"
+    },
+    {
+      "count": 149,
+      "detector.type": "QueueDetected",
+      "time.min_of_day_x30": "06:30"
+    },
+    {
+      "count": 136,
+      "detector.type": "peopleDistance",
+      "time.min_of_day_x30": "20:30"
+    },
+    {
+      "count": 1357,
+      "detector.type": "bodyTemperature",
+      "time.min_of_day_x30": "15:30"
+    },
+    {
+      "count": 215,
+      "detector.type": "NoHandSegment",
+      "time.min_of_day_x30": "11:00"
+    },
+    {
+      "count": 580,
+      "detector.type": "oneLine",
+      "time.min_of_day_x30": "23:00"
+    },
+    {
+      "count": 1341,
+      "detector.type": "listed_lpr_detected",
+      "time.min_of_day_x30": "00:30"
+    },
+    {
+      "count": 4511,
+      "detector.type": "listed_lpr_detected",
+      "time.min_of_day_x30": "09:00"
+    },
+    {
+      "count": 1288,
+      "detector.type": "EvasionDetected",
+      "time.min_of_day_x30": "23:00"
+    },
+    {
+      "count": 395,
+      "detector.type": "moveInZone",
+      "time.min_of_day_x30": "09:00"
+    },
+    {
+      "count": 576,
+      "detector.type": "oneLine",
+      "time.min_of_day_x30": "02:00"
+    },
+    {
+      "count": 328,
+      "detector.type": "NoOtherSegment",
+      "time.min_of_day_x30": "16:30"
+    },
+    {
+      "count": 1330,
+      "detector.type": "listed_lpr_detected",
+      "time.min_of_day_x30": "01:30"
+    },
+    {
+      "count": 2090,
+      "detector.type": "listed_lpr_detected",
+      "time.min_of_day_x30": "08:00"
+    },
+    {
+      "count": 1273,
+      "detector.type": "EvasionDetected",
+      "time.min_of_day_x30": "22:00"
+    },
+    {
+      "count": 248,
+      "detector.type": "NoOtherSegment",
+      "time.min_of_day_x30": "17:30"
+    },
+    {
+      "count": 64,
+      "detector.type": "NoHeadSegment",
+      "time.min_of_day_x30": "07:00"
+    },
+    {
+      "count": 1345,
+      "detector.type": "listed_lpr_detected",
+      "time.min_of_day_x30": "02:30"
+    },
+    {
+      "count": 2079,
+      "detector.type": "EvasionDetected",
+      "time.min_of_day_x30": "21:00"
+    },
+    {
+      "count": 495,
+      "detector.type": "NoOtherSegment",
+      "time.min_of_day_x30": "14:30"
+    },
+    {
+      "count": 1382,
+      "detector.type": "faceAppeared",
+      "time.min_of_day_x30": "07:00"
+    },
+    {
+      "count": 1770,
+      "detector.type": "oneLine",
+      "time.min_of_day_x30": "19:30"
+    },
+    {
+      "count": 1338,
+      "detector.type": "listed_lpr_detected",
+      "time.min_of_day_x30": "03:30"
+    },
+    {
+      "count": 219,
+      "detector.type": "NoHandSegment",
+      "time.min_of_day_x30": "20:00"
+    },
+    {
+      "count": 3227,
+      "detector.type": "EvasionDetected",
+      "time.min_of_day_x30": "20:00"
+    },
+    {
+      "count": 834,
+      "detector.type": "People",
+      "time.min_of_day_x30": "14:30"
+    },
+    {
+      "count": 73,
+      "detector.type": "NoHandSegment",
+      "time.min_of_day_x30": "01:00"
+    },
+    {
+      "count": 458,
+      "detector.type": "QueueDetected",
+      "time.min_of_day_x30": "16:30"
+    },
+    {
+      "count": 468,
+      "detector.type": "NoOtherSegment",
+      "time.min_of_day_x30": "15:30"
+    },
+    {
+      "count": 649,
+      "detector.type": "moveInZone",
+      "time.min_of_day_x30": "12:30"
+    },
+    {
+      "count": 1077,
+      "detector.type": "bodyTemperature",
+      "time.min_of_day_x30": "05:30"
+    },
+    {
+      "count": 24,
+      "detector.type": "moveInZone",
+      "time.min_of_day_x30": "18:00"
+    },
+    {
+      "count": 2268,
+      "detector.type": "oneLine",
+      "time.min_of_day_x30": "13:00"
+    },
+    {
+      "count": 1077,
+      "detector.type": "bodyTemperature",
+      "time.min_of_day_x30": "04:30"
+    },
+    {
+      "count": 279,
+      "detector.type": "NoHeadSegment",
+      "time.min_of_day_x30": "16:00"
+    },
+    {
+      "count": 1077,
+      "detector.type": "bodyTemperature",
+      "time.min_of_day_x30": "07:30"
+    },
+    {
+      "count": 7570,
+      "detector.type": "faceAppeared",
+      "time.min_of_day_x30": "16:00"
+    },
+    {
+      "count": 1077,
+      "detector.type": "bodyTemperature",
+      "time.min_of_day_x30": "06:30"
+    },
+    {
+      "count": 1728,
+      "detector.type": "oneLine",
+      "time.min_of_day_x30": "08:30"
+    },
+    {
+      "count": 208,
+      "detector.type": "People",
+      "time.min_of_day_x30": "05:30"
+    },
+    {
+      "count": 149,
+      "detector.type": "QueueDetected",
+      "time.min_of_day_x30": "07:30"
+    },
+    {
+      "count": 281,
+      "detector.type": "NoHandSegment",
+      "time.min_of_day_x30": "10:00"
+    },
+    {
+      "count": 323,
+      "detector.type": "moveInZone",
+      "time.min_of_day_x30": "08:00"
+    },
+    {
+      "count": 122,
+      "detector.type": "NoOtherSegment",
+      "time.min_of_day_x30": "05:30"
+    },
+    {
+      "count": 577,
+      "detector.type": "oneLine",
+      "time.min_of_day_x30": "22:00"
+    },
+    {
+      "count": 578,
+      "detector.type": "oneLine",
+      "time.min_of_day_x30": "03:00"
+    },
+    {
+      "count": 5171,
+      "detector.type": "listed_lpr_detected",
+      "time.min_of_day_x30": "13:30"
+    },
+    {
+      "count": 122,
+      "detector.type": "NoOtherSegment",
+      "time.min_of_day_x30": "04:30"
+    },
+    {
+      "count": 6677,
+      "detector.type": "listed_lpr_detected",
+      "time.min_of_day_x30": "12:30"
+    },
+    {
+      "count": 65,
+      "detector.type": "NoHeadSegment",
+      "time.min_of_day_x30": "06:00"
+    },
+    {
+      "count": 122,
+      "detector.type": "NoOtherSegment",
+      "time.min_of_day_x30": "07:30"
+    },
+    {
+      "count": 1384,
+      "detector.type": "faceAppeared",
+      "time.min_of_day_x30": "06:00"
+    },
+    {
+      "count": 3192,
+      "detector.type": "listed_lpr_detected",
+      "time.min_of_day_x30": "18:00"
+    },
+    {
+      "count": 6952,
+      "detector.type": "listed_lpr_detected",
+      "time.min_of_day_x30": "11:30"
+    },
+    {
+      "count": 1166,
+      "detector.type": "People",
+      "time.min_of_day_x30": "15:30"
+    },
+    {
+      "count": 122,
+      "detector.type": "NoOtherSegment",
+      "time.min_of_day_x30": "06:30"
+    },
+    {
+      "count": 1154,
+      "detector.type": "oneLine",
+      "time.min_of_day_x30": "18:30"
+    },
+    {
+      "count": 148,
+      "detector.type": "NoHandSegment",
+      "time.min_of_day_x30": "21:00"
+    },
+    {
+      "count": 651,
+      "detector.type": "moveInZone",
+      "time.min_of_day_x30": "13:30"
+    },
+    {
+      "count": 78,
+      "detector.type": "NoHandSegment",
+      "time.min_of_day_x30": "00:00"
+    },
+    {
+      "count": 3189,
+      "detector.type": "listed_lpr_detected",
+      "time.min_of_day_x30": "19:00"
+    },
+    {
+      "count": 4791,
+      "detector.type": "listed_lpr_detected",
+      "time.min_of_day_x30": "10:30"
+    },
+    {
+      "count": 362,
+      "detector.type": "QueueDetected",
+      "time.min_of_day_x30": "17:30"
+    },
+    {
+      "count": 1438,
+      "detector.type": "bodyTemperature",
+      "time.min_of_day_x30": "18:00"
+    },
+    {
+      "count": 1681,
+      "detector.type": "bodyTemperature",
+      "time.min_of_day_x30": "11:30"
+    },
+    {
+      "count": 201,
+      "detector.type": "NoHeadSegment",
+      "time.min_of_day_x30": "11:00"
+    },
+    {
+      "count": 1308,
+      "detector.type": "plateRecognized",
+      "time.min_of_day_x30": "21:30"
+    },
+    {
+      "count": 1114,
+      "detector.type": "People",
+      "time.min_of_day_x30": "19:00"
+    },
+    {
+      "count": 2306,
+      "detector.type": "oneLine",
+      "time.min_of_day_x30": "14:00"
+    },
+    {
+      "count": 1438,
+      "detector.type": "bodyTemperature",
+      "time.min_of_day_x30": "19:00"
+    },
+    {
+      "count": 844,
+      "detector.type": "bodyTemperature",
+      "time.min_of_day_x30": "10:30"
+    },
+    {
+      "count": 2169,
+      "detector.type": "plateRecognized",
+      "time.min_of_day_x30": "20:30"
+    },
+    {
+      "count": 208,
+      "detector.type": "People",
+      "time.min_of_day_x30": "23:30"
+    },
+    {
+      "count": 151,
+      "detector.type": "NoHandSegment",
+      "time.min_of_day_x30": "17:00"
+    },
+    {
+      "count": 1434,
+      "detector.type": "bodyTemperature",
+      "time.min_of_day_x30": "13:30"
+    },
+    {
+      "count": 152,
+      "detector.type": "QueueDetected",
+      "time.min_of_day_x30": "00:30"
+    },
+    {
+      "count": 824,
+      "detector.type": "plateRecognized",
+      "time.min_of_day_x30": "23:30"
+    },
+    {
+      "count": 209,
+      "detector.type": "People",
+      "time.min_of_day_x30": "02:30"
+    },
+    {
+      "count": 225,
+      "detector.type": "QueueDetected",
+      "time.min_of_day_x30": "21:30"
+    },
+    {
+      "count": 10428,
+      "detector.type": "faceAppeared",
+      "time.min_of_day_x30": "11:00"
+    },
+    {
+      "count": 1498,
+      "detector.type": "bodyTemperature",
+      "time.min_of_day_x30": "12:30"
+    },
+    {
+      "count": 828,
+      "detector.type": "plateRecognized",
+      "time.min_of_day_x30": "22:30"
+    },
+    {
+      "count": 66,
+      "detector.type": "NoHeadSegment",
+      "time.min_of_day_x30": "01:00"
+    },
+    {
+      "count": 242,
+      "detector.type": "NoOtherSegment",
+      "time.min_of_day_x30": "18:00"
+    },
+    {
+      "count": 492,
+      "detector.type": "NoOtherSegment",
+      "time.min_of_day_x30": "11:30"
+    },
+    {
+      "count": 2159,
+      "detector.type": "listed_face_detected",
+      "time.min_of_day_x30": "20:30"
+    },
+    {
+      "count": 1326,
+      "detector.type": "listed_lpr_detected",
+      "time.min_of_day_x30": "07:30"
+    },
+    {
+      "count": 177,
+      "detector.type": "NoHeadSegment",
+      "time.min_of_day_x30": "20:00"
+    },
+    {
+      "count": 243,
+      "detector.type": "NoOtherSegment",
+      "time.min_of_day_x30": "19:00"
+    },
+    {
+      "count": 286,
+      "detector.type": "NoOtherSegment",
+      "time.min_of_day_x30": "10:30"
+    },
+    {
+      "count": 580,
+      "detector.type": "oneLine",
+      "time.min_of_day_x30": "04:00"
+    },
+    {
+      "count": 697,
+      "detector.type": "People",
+      "time.min_of_day_x30": "09:00"
+    },
+    {
+      "count": 960,
+      "detector.type": "listed_face_detected",
+      "time.min_of_day_x30": "21:30"
+    },
+    {
+      "count": 1339,
+      "detector.type": "listed_lpr_detected",
+      "time.min_of_day_x30": "06:30"
+    },
+    {
+      "count": 349,
+      "detector.type": "QueueDetected",
+      "time.min_of_day_x30": "10:30"
+    },
+    {
+      "count": 490,
+      "detector.type": "NoOtherSegment",
+      "time.min_of_day_x30": "13:30"
+    },
+    {
+      "count": 81,
+      "detector.type": "NoHandSegment",
+      "time.min_of_day_x30": "07:00"
+    },
+    {
+      "count": 703,
+      "detector.type": "listed_face_detected",
+      "time.min_of_day_x30": "22:30"
+    },
+    {
+      "count": 653,
+      "detector.type": "moveInZone",
+      "time.min_of_day_x30": "14:30"
+    },
+    {
+      "count": 1335,
+      "detector.type": "listed_lpr_detected",
+      "time.min_of_day_x30": "05:30"
+    },
+    {
+      "count": 3217,
+      "detector.type": "People",
+      "time.min_of_day_x30": "12:30"
+    },
+    {
+      "count": 427,
+      "detector.type": "NoOtherSegment",
+      "time.min_of_day_x30": "12:30"
+    },
+    {
+      "count": 696,
+      "detector.type": "listed_face_detected",
+      "time.min_of_day_x30": "23:30"
+    },
+    {
+      "count": 1378,
+      "detector.type": "faceAppeared",
+      "time.min_of_day_x30": "01:00"
+    },
+    {
+      "count": 1333,
+      "detector.type": "listed_lpr_detected",
+      "time.min_of_day_x30": "04:30"
+    },
+    {
+      "count": 5464,
+      "detector.type": "faceAppeared",
+      "time.min_of_day_x30": "20:00"
+    },
+    {
+      "count": 246,
+      "detector.type": "NoHeadSegment",
+      "time.min_of_day_x30": "10:00"
+    },
+    {
+      "count": 1079,
+      "detector.type": "bodyTemperature",
+      "time.min_of_day_x30": "02:30"
+    },
+    {
+      "count": 2544,
+      "detector.type": "oneLine",
+      "time.min_of_day_x30": "15:00"
+    },
+    {
+      "count": 1057,
+      "detector.type": "People",
+      "time.min_of_day_x30": "18:00"
+    },
+    {
+      "count": 1079,
+      "detector.type": "bodyTemperature",
+      "time.min_of_day_x30": "03:30"
+    },
+    {
+      "count": 285,
+      "detector.type": "NoHandSegment",
+      "time.min_of_day_x30": "16:00"
+    },
+    {
+      "count": 150,
+      "detector.type": "QueueDetected",
+      "time.min_of_day_x30": "01:30"
+    },
+    {
+      "count": 207,
+      "detector.type": "People",
+      "time.min_of_day_x30": "22:30"
+    },
+    {
+      "count": 1077,
+      "detector.type": "bodyTemperature",
+      "time.min_of_day_x30": "00:30"
+    },
+    {
+      "count": 1553,
+      "detector.type": "bodyTemperature",
+      "time.min_of_day_x30": "09:00"
+    },
+    {
+      "count": 352,
+      "detector.type": "QueueDetected",
+      "time.min_of_day_x30": "20:30"
+    },
+    {
+      "count": 206,
+      "detector.type": "People",
+      "time.min_of_day_x30": "03:30"
+    },
+    {
+      "count": 7825,
+      "detector.type": "faceAppeared",
+      "time.min_of_day_x30": "10:00"
+    },
+    {
+      "count": 1077,
+      "detector.type": "bodyTemperature",
+      "time.min_of_day_x30": "01:30"
+    },
+    {
+      "count": 1388,
+      "detector.type": "bodyTemperature",
+      "time.min_of_day_x30": "08:00"
+    },
+    {
+      "count": 63,
+      "detector.type": "NoHeadSegment",
+      "time.min_of_day_x30": "00:00"
+    },
+    {
+      "count": 5687,
+      "detector.type": "listed_lpr_detected",
+      "time.min_of_day_x30": "14:30"
+    },
+    {
+      "count": 141,
+      "detector.type": "NoHeadSegment",
+      "time.min_of_day_x30": "21:00"
+    },
+    {
+      "count": 122,
+      "detector.type": "NoOtherSegment",
+      "time.min_of_day_x30": "02:30"
+    },
+    {
+      "count": 386,
+      "detector.type": "People",
+      "time.min_of_day_x30": "08:00"
+    },
+    {
+      "count": 5934,
+      "detector.type": "listed_lpr_detected",
+      "time.min_of_day_x30": "15:30"
+    },
+    {
+      "count": 576,
+      "detector.type": "oneLine",
+      "time.min_of_day_x30": "05:00"
+    },
+    {
+      "count": 123,
+      "detector.type": "NoOtherSegment",
+      "time.min_of_day_x30": "03:30"
+    },
+    {
+      "count": 632,
+      "detector.type": "moveInZone",
+      "time.min_of_day_x30": "15:30"
+    },
+    {
+      "count": 605,
+      "detector.type": "QueueDetected",
+      "time.min_of_day_x30": "11:30"
+    },
+    {
+      "count": 5180,
+      "detector.type": "listed_lpr_detected",
+      "time.min_of_day_x30": "16:30"
+    },
+    {
+      "count": 79,
+      "detector.type": "NoHandSegment",
+      "time.min_of_day_x30": "06:00"
+    },
+    {
+      "count": 830,
+      "detector.type": "People",
+      "time.min_of_day_x30": "13:30"
+    },
+    {
+      "count": 119,
+      "detector.type": "NoOtherSegment",
+      "time.min_of_day_x30": "00:30"
+    },
+    {
+      "count": 423,
+      "detector.type": "NoOtherSegment",
+      "time.min_of_day_x30": "09:00"
+    },
+    {
+      "count": 1391,
+      "detector.type": "faceAppeared",
+      "time.min_of_day_x30": "00:00"
+    },
+    {
+      "count": 4476,
+      "detector.type": "listed_lpr_detected",
+      "time.min_of_day_x30": "17:30"
+    },
+    {
+      "count": 2256,
+      "detector.type": "faceAppeared",
+      "time.min_of_day_x30": "21:00"
+    },
+    {
+      "count": 122,
+      "detector.type": "NoOtherSegment",
+      "time.min_of_day_x30": "01:30"
+    },
+    {
+      "count": 227,
+      "detector.type": "NoOtherSegment",
+      "time.min_of_day_x30": "08:00"
+    },
+    {
+      "count": 3422,
+      "detector.type": "faceAppeared",
+      "time.min_of_day_x30": "08:30"
+    },
+    {
+      "count": 1276,
+      "detector.type": "EvasionDetected",
+      "time.min_of_day_x30": "07:00"
+    },
+    {
+      "count": 706,
+      "detector.type": "listed_face_detected",
+      "time.min_of_day_x30": "03:30"
+    },
+    {
+      "count": 239,
+      "detector.type": "NoHeadSegment",
+      "time.min_of_day_x30": "13:00"
+    },
+    {
+      "count": 1288,
+      "detector.type": "EvasionDetected",
+      "time.min_of_day_x30": "06:00"
+    },
+    {
+      "count": 362,
+      "detector.type": "QueueDetected",
+      "time.min_of_day_x30": "19:00"
+    },
+    {
+      "count": 704,
+      "detector.type": "listed_face_detected",
+      "time.min_of_day_x30": "02:30"
+    },
+    {
+      "count": 2292,
+      "detector.type": "oneLine",
+      "time.min_of_day_x30": "16:00"
+    },
+    {
+      "count": 212,
+      "detector.type": "People",
+      "time.min_of_day_x30": "00:30"
+    },
+    {
+      "count": 1280,
+      "detector.type": "EvasionDetected",
+      "time.min_of_day_x30": "05:00"
+    },
+    {
+      "count": 152,
+      "detector.type": "QueueDetected",
+      "time.min_of_day_x30": "23:30"
+    },
+    {
+      "count": 1325,
+      "detector.type": "listed_face_detected",
+      "time.min_of_day_x30": "08:00"
+    },
+    {
+      "count": 698,
+      "detector.type": "listed_face_detected",
+      "time.min_of_day_x30": "01:30"
+    },
+    {
+      "count": 312,
+      "detector.type": "People",
+      "time.min_of_day_x30": "21:30"
+    },
+    {
+      "count": 349,
+      "detector.type": "NoHandSegment",
+      "time.min_of_day_x30": "15:00"
+    },
+    {
+      "count": 148,
+      "detector.type": "QueueDetected",
+      "time.min_of_day_x30": "02:30"
+    },
+    {
+      "count": 1281,
+      "detector.type": "EvasionDetected",
+      "time.min_of_day_x30": "04:00"
+    },
+    {
+      "count": 201,
+      "detector.type": "NoHeadSegment",
+      "time.min_of_day_x30": "08:30"
+    },
+    {
+      "count": 12357,
+      "detector.type": "faceAppeared",
+      "time.min_of_day_x30": "13:00"
+    },
+    {
+      "count": 2335,
+      "detector.type": "listed_face_detected",
+      "time.min_of_day_x30": "09:00"
+    },
+    {
+      "count": 695,
+      "detector.type": "listed_face_detected",
+      "time.min_of_day_x30": "00:30"
+    },
+    {
+      "count": 66,
+      "detector.type": "NoHeadSegment",
+      "time.min_of_day_x30": "22:00"
+    },
+    {
+      "count": 824,
+      "detector.type": "plateRecognized",
+      "time.min_of_day_x30": "02:30"
+    },
+    {
+      "count": 7574,
+      "detector.type": "faceAppeared",
+      "time.min_of_day_x30": "18:30"
+    },
+    {
+      "count": 68,
+      "detector.type": "NoHeadSegment",
+      "time.min_of_day_x30": "03:00"
+    },
+    {
+      "count": 76,
+      "detector.type": "peopleDistance",
+      "time.min_of_day_x30": "07:30"
+    },
+    {
+      "count": 495,
+      "detector.type": "QueueDetected",
+      "time.min_of_day_x30": "09:00"
+    },
+    {
+      "count": 826,
+      "detector.type": "plateRecognized",
+      "time.min_of_day_x30": "03:30"
+    },
+    {
+      "count": 582,
+      "detector.type": "oneLine",
+      "time.min_of_day_x30": "06:00"
+    },
+    {
+      "count": 81,
+      "detector.type": "peopleDistance",
+      "time.min_of_day_x30": "06:30"
+    },
+    {
+      "count": 484,
+      "detector.type": "People",
+      "time.min_of_day_x30": "10:30"
+    },
+    {
+      "count": 4406,
+      "detector.type": "plateRecognized",
+      "time.min_of_day_x30": "09:00"
+    },
+    {
+      "count": 831,
+      "detector.type": "plateRecognized",
+      "time.min_of_day_x30": "00:30"
+    },
+    {
+      "count": 528,
+      "detector.type": "QueueDetected",
+      "time.min_of_day_x30": "12:30"
+    },
+    {
+      "count": 77,
+      "detector.type": "NoHandSegment",
+      "time.min_of_day_x30": "05:00"
+    },
+    {
+      "count": 74,
+      "detector.type": "peopleDistance",
+      "time.min_of_day_x30": "05:30"
+    },
+    {
+      "count": 656,
+      "detector.type": "moveInZone",
+      "time.min_of_day_x30": "16:30"
+    },
+    {
+      "count": 135,
+      "detector.type": "NoHeadSegment",
+      "time.min_of_day_x30": "18:30"
+    },
+    {
+      "count": 2083,
+      "detector.type": "plateRecognized",
+      "time.min_of_day_x30": "08:00"
+    },
+    {
+      "count": 818,
+      "detector.type": "plateRecognized",
+      "time.min_of_day_x30": "01:30"
+    },
+    {
+      "count": 1385,
+      "detector.type": "faceAppeared",
+      "time.min_of_day_x30": "22:00"
+    },
+    {
+      "count": 74,
+      "detector.type": "peopleDistance",
+      "time.min_of_day_x30": "04:30"
+    },
+    {
+      "count": 1380,
+      "detector.type": "faceAppeared",
+      "time.min_of_day_x30": "03:00"
+    },
+    {
+      "count": 186,
+      "detector.type": "NoOtherSegment",
+      "time.min_of_day_x30": "21:30"
+    },
+    {
+      "count": 6717,
+      "detector.type": "faceAppeared",
+      "time.min_of_day_x30": "09:30"
+    },
+    {
+      "count": 3647,
+      "detector.type": "listed_face_detected",
+      "time.min_of_day_x30": "10:30"
+    },
+    {
+      "count": 2072,
+      "detector.type": "listed_face_detected",
+      "time.min_of_day_x30": "19:00"
+    },
+    {
+      "count": 246,
+      "detector.type": "NoHeadSegment",
+      "time.min_of_day_x30": "12:00"
+    },
+    {
+      "count": 3197,
+      "detector.type": "EvasionDetected",
+      "time.min_of_day_x30": "14:00"
+    },
+    {
+      "count": 351,
+      "detector.type": "QueueDetected",
+      "time.min_of_day_x30": "18:00"
+    },
+    {
+      "count": 242,
+      "detector.type": "NoOtherSegment",
+      "time.min_of_day_x30": "20:30"
+    },
+    {
+      "count": 4870,
+      "detector.type": "listed_face_detected",
+      "time.min_of_day_x30": "11:30"
+    },
+    {
+      "count": 2163,
+      "detector.type": "listed_face_detected",
+      "time.min_of_day_x30": "18:00"
+    },
+    {
+      "count": 1152,
+      "detector.type": "oneLine",
+      "time.min_of_day_x30": "17:00"
+    },
+    {
+      "count": 3873,
+      "detector.type": "EvasionDetected",
+      "time.min_of_day_x30": "15:00"
+    },
+    {
+      "count": 147,
+      "detector.type": "QueueDetected",
+      "time.min_of_day_x30": "22:30"
+    },
+    {
+      "count": 123,
+      "detector.type": "NoOtherSegment",
+      "time.min_of_day_x30": "23:30"
+    },
+    {
+      "count": 4875,
+      "detector.type": "listed_face_detected",
+      "time.min_of_day_x30": "12:30"
+    },
+    {
+      "count": 210,
+      "detector.type": "People",
+      "time.min_of_day_x30": "01:30"
+    },
+    {
+      "count": 304,
+      "detector.type": "NoHandSegment",
+      "time.min_of_day_x30": "14:00"
+    },
+    {
+      "count": 152,
+      "detector.type": "QueueDetected",
+      "time.min_of_day_x30": "03:30"
+    },
+    {
+      "count": 3791,
+      "detector.type": "EvasionDetected",
+      "time.min_of_day_x30": "16:00"
+    },
+    {
+      "count": 920,
+      "detector.type": "People",
+      "time.min_of_day_x30": "20:30"
+    },
+    {
+      "count": 284,
+      "detector.type": "NoHeadSegment",
+      "time.min_of_day_x30": "09:30"
+    },
+    {
+      "count": 122,
+      "detector.type": "NoOtherSegment",
+      "time.min_of_day_x30": "22:30"
+    },
+    {
+      "count": 2634,
+      "detector.type": "listed_face_detected",
+      "time.min_of_day_x30": "13:30"
+    },
+    {
+      "count": 2734,
+      "detector.type": "EvasionDetected",
+      "time.min_of_day_x30": "17:00"
+    },
+    {
+      "count": 14574,
+      "detector.type": "faceAppeared",
+      "time.min_of_day_x30": "12:00"
+    },
+    {
+      "count": 5598,
+      "detector.type": "faceAppeared",
+      "time.min_of_day_x30": "19:30"
+    },
+    {
+      "count": 268,
+      "detector.type": "peopleDistance",
+      "time.min_of_day_x30": "14:30"
+    },
+    {
+      "count": 68,
+      "detector.type": "NoHeadSegment",
+      "time.min_of_day_x30": "23:00"
+    },
+    {
+      "count": 1266,
+      "detector.type": "bodyTemperature",
+      "time.min_of_day_x30": "21:30"
+    },
+    {
+      "count": 7231,
+      "detector.type": "plateRecognized",
+      "time.min_of_day_x30": "11:30"
+    },
+    {
+      "count": 2309,
+      "detector.type": "plateRecognized",
+      "time.min_of_day_x30": "18:00"
+    },
+    {
+      "count": 67,
+      "detector.type": "NoHeadSegment",
+      "time.min_of_day_x30": "02:00"
+    },
+    {
+      "count": 253,
+      "detector.type": "peopleDistance",
+      "time.min_of_day_x30": "15:30"
+    },
+    {
+      "count": 273,
+      "detector.type": "QueueDetected",
+      "time.min_of_day_x30": "08:00"
+    },
+    {
+      "count": 1438,
+      "detector.type": "bodyTemperature",
+      "time.min_of_day_x30": "20:30"
+    },
+    {
+      "count": 5257,
+      "detector.type": "plateRecognized",
+      "time.min_of_day_x30": "10:30"
+    },
+    {
+      "count": 2272,
+      "detector.type": "plateRecognized",
+      "time.min_of_day_x30": "19:00"
+    },
+    {
+      "count": 576,
+      "detector.type": "oneLine",
+      "time.min_of_day_x30": "07:00"
+    },
+    {
+      "count": 1759,
+      "detector.type": "People",
+      "time.min_of_day_x30": "11:30"
+    },
+    {
+      "count": 188,
+      "detector.type": "peopleDistance",
+      "time.min_of_day_x30": "16:30"
+    },
+    {
+      "count": 1077,
+      "detector.type": "bodyTemperature",
+      "time.min_of_day_x30": "23:30"
+    },
+    {
+      "count": 649,
+      "detector.type": "moveInZone",
+      "time.min_of_day_x30": "17:30"
+    },
+    {
+      "count": 5643,
+      "detector.type": "plateRecognized",
+      "time.min_of_day_x30": "13:30"
+    },
+    {
+      "count": 600,
+      "detector.type": "QueueDetected",
+      "time.min_of_day_x30": "13:30"
+    },
+    {
+      "count": 77,
+      "detector.type": "NoHandSegment",
+      "time.min_of_day_x30": "04:00"
+    },
+    {
+      "count": 1377,
+      "detector.type": "faceAppeared",
+      "time.min_of_day_x30": "23:00"
+    },
+    {
+      "count": 141,
+      "detector.type": "peopleDistance",
+      "time.min_of_day_x30": "17:30"
+    },
+    {
+      "count": 199,
+      "detector.type": "NoHeadSegment",
+      "time.min_of_day_x30": "19:30"
+    },
+    {
+      "count": 1077,
+      "detector.type": "bodyTemperature",
+      "time.min_of_day_x30": "22:30"
+    },
+    {
+      "count": 7128,
+      "detector.type": "plateRecognized",
+      "time.min_of_day_x30": "12:30"
+    },
+    {
+      "count": 1390,
+      "detector.type": "faceAppeared",
+      "time.min_of_day_x30": "02:00"
+    },
+    {
+      "count": 461,
+      "detector.type": "NoOtherSegment",
+      "time.min_of_day_x30": "13:00"
+    },
+    {
+      "count": 701,
+      "detector.type": "listed_face_detected",
+      "time.min_of_day_x30": "22:00"
+    },
+    {
+      "count": 69,
+      "detector.type": "NoHeadSegment",
+      "time.min_of_day_x30": "06:30"
+    },
+    {
+      "count": 1335,
+      "detector.type": "listed_lpr_detected",
+      "time.min_of_day_x30": "05:00"
+    },
+    {
+      "count": 445,
+      "detector.type": "NoOtherSegment",
+      "time.min_of_day_x30": "12:00"
+    },
+    {
+      "count": 576,
+      "detector.type": "oneLine",
+      "time.min_of_day_x30": "22:30"
+    },
+    {
+      "count": 325,
+      "detector.type": "moveInZone",
+      "time.min_of_day_x30": "08:30"
+    },
+    {
+      "count": 703,
+      "detector.type": "listed_face_detected",
+      "time.min_of_day_x30": "23:00"
+    },
+    {
+      "count": 576,
+      "detector.type": "oneLine",
+      "time.min_of_day_x30": "03:30"
+    },
+    {
+      "count": 1343,
+      "detector.type": "listed_lpr_detected",
+      "time.min_of_day_x30": "04:00"
+    },
+    {
+      "count": 359,
+      "detector.type": "NoOtherSegment",
+      "time.min_of_day_x30": "11:00"
+    },
+    {
+      "count": 1154,
+      "detector.type": "oneLine",
+      "time.min_of_day_x30": "18:00"
+    },
+    {
+      "count": 247,
+      "detector.type": "NoOtherSegment",
+      "time.min_of_day_x30": "18:30"
+    },
+    {
+      "count": 125,
+      "detector.type": "NoHandSegment",
+      "time.min_of_day_x30": "21:30"
+    },
+    {
+      "count": 1437,
+      "detector.type": "People",
+      "time.min_of_day_x30": "15:00"
+    },
+    {
+      "count": 2554,
+      "detector.type": "listed_face_detected",
+      "time.min_of_day_x30": "20:00"
+    },
+    {
+      "count": 359,
+      "detector.type": "QueueDetected",
+      "time.min_of_day_x30": "17:00"
+    },
+    {
+      "count": 71,
+      "detector.type": "NoHandSegment",
+      "time.min_of_day_x30": "00:30"
+    },
+    {
+      "count": 1337,
+      "detector.type": "listed_lpr_detected",
+      "time.min_of_day_x30": "07:00"
+    },
+    {
+      "count": 651,
+      "detector.type": "moveInZone",
+      "time.min_of_day_x30": "13:00"
+    },
+    {
+      "count": 452,
+      "detector.type": "NoOtherSegment",
+      "time.min_of_day_x30": "10:00"
+    },
+    {
+      "count": 355,
+      "detector.type": "NoOtherSegment",
+      "time.min_of_day_x30": "19:30"
+    },
+    {
+      "count": 1201,
+      "detector.type": "listed_face_detected",
+      "time.min_of_day_x30": "21:00"
+    },
+    {
+      "count": 1332,
+      "detector.type": "listed_lpr_detected",
+      "time.min_of_day_x30": "06:00"
+    },
+    {
+      "count": 1380,
+      "detector.type": "faceAppeared",
+      "time.min_of_day_x30": "06:30"
+    },
+    {
+      "count": 1372,
+      "detector.type": "bodyTemperature",
+      "time.min_of_day_x30": "13:00"
+    },
+    {
+      "count": 822,
+      "detector.type": "plateRecognized",
+      "time.min_of_day_x30": "23:00"
+    },
+    {
+      "count": 178,
+      "detector.type": "NoHeadSegment",
+      "time.min_of_day_x30": "16:30"
+    },
+    {
+      "count": 1665,
+      "detector.type": "bodyTemperature",
+      "time.min_of_day_x30": "12:00"
+    },
+    {
+      "count": 822,
+      "detector.type": "plateRecognized",
+      "time.min_of_day_x30": "22:00"
+    },
+    {
+      "count": 2306,
+      "detector.type": "oneLine",
+      "time.min_of_day_x30": "13:30"
+    },
+    {
+      "count": 207,
+      "detector.type": "People",
+      "time.min_of_day_x30": "05:00"
+    },
+    {
+      "count": 1068,
+      "detector.type": "bodyTemperature",
+      "time.min_of_day_x30": "11:00"
+    },
+    {
+      "count": 1064,
+      "detector.type": "oneLine",
+      "time.min_of_day_x30": "08:00"
+    },
+    {
+      "count": 1436,
+      "detector.type": "bodyTemperature",
+      "time.min_of_day_x30": "18:30"
+    },
+    {
+      "count": 1739,
+      "detector.type": "plateRecognized",
+      "time.min_of_day_x30": "21:00"
+    },
+    {
+      "count": 181,
+      "detector.type": "NoHandSegment",
+      "time.min_of_day_x30": "10:30"
+    },
+    {
+      "count": 152,
+      "detector.type": "QueueDetected",
+      "time.min_of_day_x30": "07:00"
+    },
+    {
+      "count": 1335,
+      "detector.type": "bodyTemperature",
+      "time.min_of_day_x30": "10:00"
+    },
+    {
+      "count": 1753,
+      "detector.type": "bodyTemperature",
+      "time.min_of_day_x30": "19:30"
+    },
+    {
+      "count": 7068,
+      "detector.type": "faceAppeared",
+      "time.min_of_day_x30": "16:30"
+    },
+    {
+      "count": 2911,
+      "detector.type": "plateRecognized",
+      "time.min_of_day_x30": "20:00"
+    },
+    {
+      "count": 6434,
+      "detector.type": "listed_lpr_detected",
+      "time.min_of_day_x30": "16:00"
+    },
+    {
+      "count": 500,
+      "detector.type": "NoOtherSegment",
+      "time.min_of_day_x30": "09:30"
+    },
+    {
+      "count": 65,
+      "detector.type": "NoHeadSegment",
+      "time.min_of_day_x30": "07:30"
+    },
+    {
+      "count": 122,
+      "detector.type": "NoOtherSegment",
+      "time.min_of_day_x30": "00:00"
+    },
+    {
+      "count": 653,
+      "detector.type": "moveInZone",
+      "time.min_of_day_x30": "09:30"
+    },
+    {
+      "count": 4827,
+      "detector.type": "listed_lpr_detected",
+      "time.min_of_day_x30": "17:00"
+    },
+    {
+      "count": 576,
+      "detector.type": "oneLine",
+      "time.min_of_day_x30": "23:30"
+    },
+    {
+      "count": 367,
+      "detector.type": "NoOtherSegment",
+      "time.min_of_day_x30": "08:30"
+    },
+    {
+      "count": 578,
+      "detector.type": "oneLine",
+      "time.min_of_day_x30": "02:30"
+    },
+    {
+      "count": 123,
+      "detector.type": "NoOtherSegment",
+      "time.min_of_day_x30": "01:00"
+    },
+    {
+      "count": 836,
+      "detector.type": "People",
+      "time.min_of_day_x30": "14:00"
+    },
+    {
+      "count": 5192,
+      "detector.type": "listed_lpr_detected",
+      "time.min_of_day_x30": "14:00"
+    },
+    {
+      "count": 1152,
+      "detector.type": "oneLine",
+      "time.min_of_day_x30": "19:00"
+    },
+    {
+      "count": 150,
+      "detector.type": "NoHandSegment",
+      "time.min_of_day_x30": "20:30"
+    },
+    {
+      "count": 486,
+      "detector.type": "moveInZone",
+      "time.min_of_day_x30": "12:00"
+    },
+    {
+      "count": 649,
+      "detector.type": "QueueDetected",
+      "time.min_of_day_x30": "16:00"
+    },
+    {
+      "count": 71,
+      "detector.type": "NoHandSegment",
+      "time.min_of_day_x30": "01:30"
+    },
+    {
+      "count": 123,
+      "detector.type": "NoOtherSegment",
+      "time.min_of_day_x30": "02:00"
+    },
+    {
+      "count": 6518,
+      "detector.type": "listed_lpr_detected",
+      "time.min_of_day_x30": "15:00"
+    },
+    {
+      "count": 1389,
+      "detector.type": "faceAppeared",
+      "time.min_of_day_x30": "07:30"
+    },
+    {
+      "count": 121,
+      "detector.type": "NoOtherSegment",
+      "time.min_of_day_x30": "03:00"
+    },
+    {
+      "count": 1467,
+      "detector.type": "bodyTemperature",
+      "time.min_of_day_x30": "09:30"
+    },
+    {
+      "count": 128,
+      "detector.type": "NoHeadSegment",
+      "time.min_of_day_x30": "17:30"
+    },
+    {
+      "count": 1080,
+      "detector.type": "bodyTemperature",
+      "time.min_of_day_x30": "00:00"
+    },
+    {
+      "count": 1796,
+      "detector.type": "bodyTemperature",
+      "time.min_of_day_x30": "08:30"
+    },
+    {
+      "count": 2256,
+      "detector.type": "oneLine",
+      "time.min_of_day_x30": "12:30"
+    },
+    {
+      "count": 1079,
+      "detector.type": "bodyTemperature",
+      "time.min_of_day_x30": "01:00"
+    },
+    {
+      "count": 1938,
+      "detector.type": "oneLine",
+      "time.min_of_day_x30": "09:00"
+    },
+    {
+      "count": 209,
+      "detector.type": "People",
+      "time.min_of_day_x30": "04:00"
+    },
+    {
+      "count": 315,
+      "detector.type": "NoHandSegment",
+      "time.min_of_day_x30": "11:30"
+    },
+    {
+      "count": 148,
+      "detector.type": "QueueDetected",
+      "time.min_of_day_x30": "06:00"
+    },
+    {
+      "count": 1077,
+      "detector.type": "bodyTemperature",
+      "time.min_of_day_x30": "02:00"
+    },
+    {
+      "count": 1077,
+      "detector.type": "bodyTemperature",
+      "time.min_of_day_x30": "03:00"
+    },
+    {
+      "count": 6665,
+      "detector.type": "faceAppeared",
+      "time.min_of_day_x30": "17:30"
+    },
+    {
+      "count": 63,
+      "detector.type": "NoHeadSegment",
+      "time.min_of_day_x30": "04:30"
+    },
+    {
+      "count": 825,
+      "detector.type": "plateRecognized",
+      "time.min_of_day_x30": "00:00"
+    },
+    {
+      "count": 6109,
+      "detector.type": "plateRecognized",
+      "time.min_of_day_x30": "09:30"
+    },
+    {
+      "count": 68,
+      "detector.type": "peopleDistance",
+      "time.min_of_day_x30": "05:00"
+    },
+    {
+      "count": 578,
+      "detector.type": "oneLine",
+      "time.min_of_day_x30": "01:30"
+    },
+    {
+      "count": 811,
+      "detector.type": "plateRecognized",
+      "time.min_of_day_x30": "01:00"
+    },
+    {
+      "count": 3197,
+      "detector.type": "plateRecognized",
+      "time.min_of_day_x30": "08:30"
+    },
+    {
+      "count": 66,
+      "detector.type": "peopleDistance",
+      "time.min_of_day_x30": "04:00"
+    },
+    {
+      "count": 1246,
+      "detector.type": "oneLine",
+      "time.min_of_day_x30": "20:30"
+    },
+    {
+      "count": 145,
+      "detector.type": "NoHandSegment",
+      "time.min_of_day_x30": "19:00"
+    },
+    {
+      "count": 661,
+      "detector.type": "QueueDetected",
+      "time.min_of_day_x30": "15:00"
+    },
+    {
+      "count": 69,
+      "detector.type": "NoHandSegment",
+      "time.min_of_day_x30": "02:30"
+    },
+    {
+      "count": 823,
+      "detector.type": "plateRecognized",
+      "time.min_of_day_x30": "02:00"
+    },
+    {
+      "count": 413,
+      "detector.type": "moveInZone",
+      "time.min_of_day_x30": "11:00"
+    },
+    {
+      "count": 57,
+      "detector.type": "peopleDistance",
+      "time.min_of_day_x30": "07:00"
+    },
+    {
+      "count": 78,
+      "detector.type": "NoHandSegment",
+      "time.min_of_day_x30": "23:30"
+    },
+    {
+      "count": 1062,
+      "detector.type": "People",
+      "time.min_of_day_x30": "17:00"
+    },
+    {
+      "count": 831,
+      "detector.type": "plateRecognized",
+      "time.min_of_day_x30": "03:00"
+    },
+    {
+      "count": 1376,
+      "detector.type": "faceAppeared",
+      "time.min_of_day_x30": "04:30"
+    },
+    {
+      "count": 66,
+      "detector.type": "peopleDistance",
+      "time.min_of_day_x30": "06:00"
+    },
+    {
+      "count": 1276,
+      "detector.type": "EvasionDetected",
+      "time.min_of_day_x30": "05:30"
+    },
+    {
+      "count": 282,
+      "detector.type": "NoHeadSegment",
+      "time.min_of_day_x30": "14:30"
+    },
+    {
+      "count": 707,
+      "detector.type": "listed_face_detected",
+      "time.min_of_day_x30": "01:00"
+    },
+    {
+      "count": 1716,
+      "detector.type": "listed_face_detected",
+      "time.min_of_day_x30": "08:30"
+    },
+    {
+      "count": 1296,
+      "detector.type": "EvasionDetected",
+      "time.min_of_day_x30": "04:30"
+    },
+    {
+      "count": 2494,
+      "detector.type": "oneLine",
+      "time.min_of_day_x30": "11:30"
+    },
+    {
+      "count": 708,
+      "detector.type": "listed_face_detected",
+      "time.min_of_day_x30": "00:00"
+    },
+    {
+      "count": 3448,
+      "detector.type": "listed_face_detected",
+      "time.min_of_day_x30": "09:30"
+    },
+    {
+      "count": 235,
+      "detector.type": "NoHandSegment",
+      "time.min_of_day_x30": "09:00"
+    },
+    {
+      "count": 1281,
+      "detector.type": "EvasionDetected",
+      "time.min_of_day_x30": "07:30"
+    },
+    {
+      "count": 258,
+      "detector.type": "NoHandSegment",
+      "time.min_of_day_x30": "12:30"
+    },
+    {
+      "count": 150,
+      "detector.type": "QueueDetected",
+      "time.min_of_day_x30": "05:00"
+    },
+    {
+      "count": 698,
+      "detector.type": "listed_face_detected",
+      "time.min_of_day_x30": "03:00"
+    },
+    {
+      "count": 209,
+      "detector.type": "People",
+      "time.min_of_day_x30": "07:00"
+    },
+    {
+      "count": 5067,
+      "detector.type": "faceAppeared",
+      "time.min_of_day_x30": "14:30"
+    },
+    {
+      "count": 1288,
+      "detector.type": "EvasionDetected",
+      "time.min_of_day_x30": "06:30"
+    },
+    {
+      "count": 704,
+      "detector.type": "listed_face_detected",
+      "time.min_of_day_x30": "02:00"
+    },
+    {
+      "count": 68,
+      "detector.type": "NoHeadSegment",
+      "time.min_of_day_x30": "05:30"
+    },
+    {
+      "count": 1079,
+      "detector.type": "bodyTemperature",
+      "time.min_of_day_x30": "23:00"
+    },
+    {
+      "count": 269,
+      "detector.type": "peopleDistance",
+      "time.min_of_day_x30": "16:00"
+    },
+    {
+      "count": 6286,
+      "detector.type": "plateRecognized",
+      "time.min_of_day_x30": "13:00"
+    },
+    {
+      "count": 1077,
+      "detector.type": "bodyTemperature",
+      "time.min_of_day_x30": "22:00"
+    },
+    {
+      "count": 147,
+      "detector.type": "peopleDistance",
+      "time.min_of_day_x30": "17:00"
+    },
+    {
+      "count": 578,
+      "detector.type": "oneLine",
+      "time.min_of_day_x30": "00:30"
+    },
+    {
+      "count": 7356,
+      "detector.type": "plateRecognized",
+      "time.min_of_day_x30": "12:00"
+    },
+    {
+      "count": 879,
+      "detector.type": "oneLine",
+      "time.min_of_day_x30": "21:30"
+    },
+    {
+      "count": 147,
+      "detector.type": "NoHandSegment",
+      "time.min_of_day_x30": "18:00"
+    },
+    {
+      "count": 654,
+      "detector.type": "moveInZone",
+      "time.min_of_day_x30": "10:00"
+    },
+    {
+      "count": 1436,
+      "detector.type": "bodyTemperature",
+      "time.min_of_day_x30": "21:00"
+    },
+    {
+      "count": 599,
+      "detector.type": "QueueDetected",
+      "time.min_of_day_x30": "14:00"
+    },
+    {
+      "count": 288,
+      "detector.type": "peopleDistance",
+      "time.min_of_day_x30": "14:00"
+    },
+    {
+      "count": 76,
+      "detector.type": "NoHandSegment",
+      "time.min_of_day_x30": "03:30"
+    },
+    {
+      "count": 2266,
+      "detector.type": "plateRecognized",
+      "time.min_of_day_x30": "18:30"
+    },
+    {
+      "count": 1456,
+      "detector.type": "People",
+      "time.min_of_day_x30": "16:00"
+    },
+    {
+      "count": 5751,
+      "detector.type": "plateRecognized",
+      "time.min_of_day_x30": "11:00"
+    },
+    {
+      "count": 83,
+      "detector.type": "NoHandSegment",
+      "time.min_of_day_x30": "22:30"
+    },
+    {
+      "count": 1386,
+      "detector.type": "faceAppeared",
+      "time.min_of_day_x30": "05:30"
+    },
+    {
+      "count": 1685,
+      "detector.type": "bodyTemperature",
+      "time.min_of_day_x30": "20:00"
+    },
+    {
+      "count": 309,
+      "detector.type": "peopleDistance",
+      "time.min_of_day_x30": "15:00"
+    },
+    {
+      "count": 3132,
+      "detector.type": "plateRecognized",
+      "time.min_of_day_x30": "19:30"
+    },
+    {
+      "count": 6003,
+      "detector.type": "plateRecognized",
+      "time.min_of_day_x30": "10:00"
+    },
+    {
+      "count": 122,
+      "detector.type": "NoOtherSegment",
+      "time.min_of_day_x30": "23:00"
+    },
+    {
+      "count": 244,
+      "detector.type": "NoHeadSegment",
+      "time.min_of_day_x30": "15:30"
+    },
+    {
+      "count": 4740,
+      "detector.type": "listed_face_detected",
+      "time.min_of_day_x30": "12:00"
+    },
+    {
+      "count": 3029,
+      "detector.type": "EvasionDetected",
+      "time.min_of_day_x30": "16:30"
+    },
+    {
+      "count": 123,
+      "detector.type": "NoOtherSegment",
+      "time.min_of_day_x30": "22:00"
+    },
+    {
+      "count": 1360,
+      "detector.type": "oneLine",
+      "time.min_of_day_x30": "10:30"
+    },
+    {
+      "count": 4332,
+      "detector.type": "listed_face_detected",
+      "time.min_of_day_x30": "13:00"
+    },
+    {
+      "count": 144,
+      "detector.type": "NoHandSegment",
+      "time.min_of_day_x30": "08:00"
+    },
+    {
+      "count": 2686,
+      "detector.type": "EvasionDetected",
+      "time.min_of_day_x30": "17:30"
+    },
+    {
+      "count": 245,
+      "detector.type": "NoOtherSegment",
+      "time.min_of_day_x30": "21:00"
+    },
+    {
+      "count": 322,
+      "detector.type": "NoHandSegment",
+      "time.min_of_day_x30": "13:30"
+    },
+    {
+      "count": 149,
+      "detector.type": "QueueDetected",
+      "time.min_of_day_x30": "04:00"
+    },
+    {
+      "count": 2592,
+      "detector.type": "listed_face_detected",
+      "time.min_of_day_x30": "19:30"
+    },
+    {
+      "count": 3881,
+      "detector.type": "listed_face_detected",
+      "time.min_of_day_x30": "10:00"
+    },
+    {
+      "count": 3243,
+      "detector.type": "EvasionDetected",
+      "time.min_of_day_x30": "14:30"
+    },
+    {
+      "count": 211,
+      "detector.type": "People",
+      "time.min_of_day_x30": "06:00"
+    },
+    {
+      "count": 332,
+      "detector.type": "NoOtherSegment",
+      "time.min_of_day_x30": "20:00"
+    },
+    {
+      "count": 5970,
+      "detector.type": "faceAppeared",
+      "time.min_of_day_x30": "15:30"
+    },
+    {
+      "count": 2102,
+      "detector.type": "listed_face_detected",
+      "time.min_of_day_x30": "18:30"
+    },
+    {
+      "count": 4247,
+      "detector.type": "listed_face_detected",
+      "time.min_of_day_x30": "11:00"
+    },
+    {
+      "count": 3272,
+      "detector.type": "EvasionDetected",
+      "time.min_of_day_x30": "15:30"
+    },
+    {
+      "count": 65,
+      "detector.type": "peopleDistance",
+      "time.min_of_day_x30": "02:00"
+    },
+    {
+      "count": 453,
+      "detector.type": "QueueDetected",
+      "time.min_of_day_x30": "08:30"
+    },
+    {
+      "count": 578,
+      "detector.type": "oneLine",
+      "time.min_of_day_x30": "07:30"
+    },
+    {
+      "count": 817,
+      "detector.type": "plateRecognized",
+      "time.min_of_day_x30": "07:00"
+    },
+    {
+      "count": 68,
+      "detector.type": "peopleDistance",
+      "time.min_of_day_x30": "03:00"
+    },
+    {
+      "count": 67,
+      "detector.type": "NoHeadSegment",
+      "time.min_of_day_x30": "23:30"
+    },
+    {
+      "count": 6173,
+      "detector.type": "faceAppeared",
+      "time.min_of_day_x30": "19:00"
+    },
+    {
+      "count": 69,
+      "detector.type": "NoHeadSegment",
+      "time.min_of_day_x30": "02:30"
+    },
+    {
+      "count": 821,
+      "detector.type": "plateRecognized",
+      "time.min_of_day_x30": "06:00"
+    },
+    {
+      "count": 62,
+      "detector.type": "peopleDistance",
+      "time.min_of_day_x30": "00:00"
+    },
+    {
+      "count": 285,
+      "detector.type": "peopleDistance",
+      "time.min_of_day_x30": "09:30"
+    },
+    {
+      "count": 135,
+      "detector.type": "NoHeadSegment",
+      "time.min_of_day_x30": "19:00"
+    },
+    {
+      "count": 1378,
+      "detector.type": "faceAppeared",
+      "time.min_of_day_x30": "23:30"
+    },
+    {
+      "count": 826,
+      "detector.type": "plateRecognized",
+      "time.min_of_day_x30": "05:00"
+    },
+    {
+      "count": 1380,
+      "detector.type": "faceAppeared",
+      "time.min_of_day_x30": "02:30"
+    },
+    {
+      "count": 72,
+      "detector.type": "peopleDistance",
+      "time.min_of_day_x30": "01:00"
+    },
+    {
+      "count": 217,
+      "detector.type": "peopleDistance",
+      "time.min_of_day_x30": "08:30"
+    },
+    {
+      "count": 619,
+      "detector.type": "People",
+      "time.min_of_day_x30": "11:00"
+    },
+    {
+      "count": 74,
+      "detector.type": "NoHandSegment",
+      "time.min_of_day_x30": "04:30"
+    },
+    {
+      "count": 556,
+      "detector.type": "QueueDetected",
+      "time.min_of_day_x30": "13:00"
+    },
+    {
+      "count": 821,
+      "detector.type": "plateRecognized",
+      "time.min_of_day_x30": "04:00"
+    },
+    {
+      "count": 652,
+      "detector.type": "moveInZone",
+      "time.min_of_day_x30": "17:00"
+    },
+    {
+      "count": 704,
+      "detector.type": "listed_face_detected",
+      "time.min_of_day_x30": "06:00"
+    },
+    {
+      "count": 361,
+      "detector.type": "QueueDetected",
+      "time.min_of_day_x30": "18:30"
+    },
+    {
+      "count": 1289,
+      "detector.type": "EvasionDetected",
+      "time.min_of_day_x30": "02:30"
+    },
+    {
+      "count": 2333,
+      "detector.type": "listed_lpr_detected",
+      "time.min_of_day_x30": "21:00"
+    },
+    {
+      "count": 1156,
+      "detector.type": "oneLine",
+      "time.min_of_day_x30": "17:30"
+    },
+    {
+      "count": 704,
+      "detector.type": "listed_face_detected",
+      "time.min_of_day_x30": "07:00"
+    },
+    {
+      "count": 3913,
+      "detector.type": "faceAppeared",
+      "time.min_of_day_x30": "09:00"
+    },
+    {
+      "count": 1271,
+      "detector.type": "EvasionDetected",
+      "time.min_of_day_x30": "03:30"
+    },
+    {
+      "count": 4034,
+      "detector.type": "listed_lpr_detected",
+      "time.min_of_day_x30": "20:00"
+    },
+    {
+      "count": 240,
+      "detector.type": "NoHeadSegment",
+      "time.min_of_day_x30": "12:30"
+    },
+    {
+      "count": 696,
+      "detector.type": "listed_face_detected",
+      "time.min_of_day_x30": "04:00"
+    },
+    {
+      "count": 232,
+      "detector.type": "NoHeadSegment",
+      "time.min_of_day_x30": "09:00"
+    },
+    {
+      "count": 1276,
+      "detector.type": "EvasionDetected",
+      "time.min_of_day_x30": "00:30"
+    },
+    {
+      "count": 3007,
+      "detector.type": "EvasionDetected",
+      "time.min_of_day_x30": "09:00"
+    },
+    {
+      "count": 14206,
+      "detector.type": "faceAppeared",
+      "time.min_of_day_x30": "12:30"
+    },
+    {
+      "count": 1333,
+      "detector.type": "listed_lpr_detected",
+      "time.min_of_day_x30": "23:00"
+    },
+    {
+      "count": 702,
+      "detector.type": "listed_face_detected",
+      "time.min_of_day_x30": "05:00"
+    },
+    {
+      "count": 207,
+      "detector.type": "People",
+      "time.min_of_day_x30": "01:00"
+    },
+    {
+      "count": 152,
+      "detector.type": "QueueDetected",
+      "time.min_of_day_x30": "22:00"
+    },
+    {
+      "count": 1275,
+      "detector.type": "EvasionDetected",
+      "time.min_of_day_x30": "01:30"
+    },
+    {
+      "count": 1215,
+      "detector.type": "People",
+      "time.min_of_day_x30": "20:00"
+    },
+    {
+      "count": 2034,
+      "detector.type": "EvasionDetected",
+      "time.min_of_day_x30": "08:00"
+    },
+    {
+      "count": 147,
+      "detector.type": "QueueDetected",
+      "time.min_of_day_x30": "03:00"
+    },
+    {
+      "count": 1343,
+      "detector.type": "listed_lpr_detected",
+      "time.min_of_day_x30": "22:00"
+    },
+    {
+      "count": 304,
+      "detector.type": "NoHandSegment",
+      "time.min_of_day_x30": "14:30"
+    },
+    {
+      "count": 5607,
+      "detector.type": "plateRecognized",
+      "time.min_of_day_x30": "14:00"
+    },
+    {
+      "count": 612,
+      "detector.type": "QueueDetected",
+      "time.min_of_day_x30": "09:30"
+    },
+    {
+      "count": 578,
+      "detector.type": "oneLine",
+      "time.min_of_day_x30": "06:30"
+    },
+    {
+      "count": 136,
+      "detector.type": "peopleDistance",
+      "time.min_of_day_x30": "18:30"
+    },
+    {
+      "count": 247,
+      "detector.type": "peopleDistance",
+      "time.min_of_day_x30": "11:00"
+    },
+    {
+      "count": 7543,
+      "detector.type": "faceAppeared",
+      "time.min_of_day_x30": "18:00"
+    },
+    {
+      "count": 6783,
+      "detector.type": "plateRecognized",
+      "time.min_of_day_x30": "15:00"
+    },
+    {
+      "count": 67,
+      "detector.type": "NoHeadSegment",
+      "time.min_of_day_x30": "22:30"
+    },
+    {
+      "count": 205,
+      "detector.type": "peopleDistance",
+      "time.min_of_day_x30": "19:30"
+    },
+    {
+      "count": 232,
+      "detector.type": "peopleDistance",
+      "time.min_of_day_x30": "10:00"
+    },
+    {
+      "count": 68,
+      "detector.type": "NoHeadSegment",
+      "time.min_of_day_x30": "03:30"
+    },
+    {
+      "count": 1387,
+      "detector.type": "faceAppeared",
+      "time.min_of_day_x30": "22:30"
+    },
+    {
+      "count": 6785,
+      "detector.type": "plateRecognized",
+      "time.min_of_day_x30": "16:00"
+    },
+    {
+      "count": 138,
+      "detector.type": "NoHeadSegment",
+      "time.min_of_day_x30": "18:00"
+    },
+    {
+      "count": 1386,
+      "detector.type": "faceAppeared",
+      "time.min_of_day_x30": "03:30"
+    },
+    {
+      "count": 387,
+      "detector.type": "peopleDistance",
+      "time.min_of_day_x30": "13:00"
+    },
+    {
+      "count": 768,
+      "detector.type": "People",
+      "time.min_of_day_x30": "10:00"
+    },
+    {
+      "count": 4992,
+      "detector.type": "plateRecognized",
+      "time.min_of_day_x30": "17:00"
+    },
+    {
+      "count": 643,
+      "detector.type": "moveInZone",
+      "time.min_of_day_x30": "16:00"
+    },
+    {
+      "count": 83,
+      "detector.type": "NoHandSegment",
+      "time.min_of_day_x30": "05:30"
+    },
+    {
+      "count": 586,
+      "detector.type": "QueueDetected",
+      "time.min_of_day_x30": "12:00"
+    },
+    {
+      "count": 289,
+      "detector.type": "peopleDistance",
+      "time.min_of_day_x30": "12:00"
+    },
+    {
+      "count": 487,
+      "detector.type": "QueueDetected",
+      "time.min_of_day_x30": "19:30"
+    },
+    {
+      "count": 2705,
+      "detector.type": "EvasionDetected",
+      "time.min_of_day_x30": "18:00"
+    },
+    {
+      "count": 3765,
+      "detector.type": "EvasionDetected",
+      "time.min_of_day_x30": "11:30"
+    },
+    {
+      "count": 1556,
+      "detector.type": "oneLine",
+      "time.min_of_day_x30": "16:30"
+    },
+    {
+      "count": 3729,
+      "detector.type": "listed_face_detected",
+      "time.min_of_day_x30": "15:00"
+    },
+    {
+      "count": 2583,
+      "detector.type": "EvasionDetected",
+      "time.min_of_day_x30": "19:00"
+    },
+    {
+      "count": 2483,
+      "detector.type": "EvasionDetected",
+      "time.min_of_day_x30": "10:30"
+    },
+    {
+      "count": 2650,
+      "detector.type": "faceAppeared",
+      "time.min_of_day_x30": "08:00"
+    },
+    {
+      "count": 265,
+      "detector.type": "NoHeadSegment",
+      "time.min_of_day_x30": "13:30"
+    },
+    {
+      "count": 2788,
+      "detector.type": "listed_face_detected",
+      "time.min_of_day_x30": "14:00"
+    },
+    {
+      "count": 120,
+      "detector.type": "NoHeadSegment",
+      "time.min_of_day_x30": "08:00"
+    },
+    {
+      "count": 3168,
+      "detector.type": "EvasionDetected",
+      "time.min_of_day_x30": "13:30"
+    },
+    {
+      "count": 9553,
+      "detector.type": "faceAppeared",
+      "time.min_of_day_x30": "13:30"
+    },
+    {
+      "count": 3876,
+      "detector.type": "listed_face_detected",
+      "time.min_of_day_x30": "17:00"
+    },
+    {
+      "count": 146,
+      "detector.type": "QueueDetected",
+      "time.min_of_day_x30": "23:00"
+    },
+    {
+      "count": 207,
+      "detector.type": "People",
+      "time.min_of_day_x30": "00:00"
+    },
+    {
+      "count": 3220,
+      "detector.type": "EvasionDetected",
+      "time.min_of_day_x30": "12:30"
+    },
+    {
+      "count": 150,
+      "detector.type": "QueueDetected",
+      "time.min_of_day_x30": "02:00"
+    },
+    {
+      "count": 310,
+      "detector.type": "NoHandSegment",
+      "time.min_of_day_x30": "15:30"
+    },
+    {
+      "count": 393,
+      "detector.type": "People",
+      "time.min_of_day_x30": "21:00"
+    },
+    {
+      "count": 3995,
+      "detector.type": "listed_face_detected",
+      "time.min_of_day_x30": "16:00"
+    },
+    {
+      "count": 576,
+      "detector.type": "oneLine",
+      "time.min_of_day_x30": "05:30"
+    },
+    {
+      "count": 1332,
+      "detector.type": "listed_lpr_detected",
+      "time.min_of_day_x30": "02:00"
+    },
+    {
+      "count": 622,
+      "detector.type": "People",
+      "time.min_of_day_x30": "08:30"
+    },
+    {
+      "count": 1709,
+      "detector.type": "EvasionDetected",
+      "time.min_of_day_x30": "21:30"
+    },
+    {
+      "count": 494,
+      "detector.type": "NoOtherSegment",
+      "time.min_of_day_x30": "14:00"
+    },
+    {
+      "count": 66,
+      "detector.type": "NoHeadSegment",
+      "time.min_of_day_x30": "00:30"
+    },
+    {
+      "count": 1341,
+      "detector.type": "listed_lpr_detected",
+      "time.min_of_day_x30": "03:00"
+    },
+    {
+      "count": 2589,
+      "detector.type": "EvasionDetected",
+      "time.min_of_day_x30": "20:30"
+    },
+    {
+      "count": 540,
+      "detector.type": "NoOtherSegment",
+      "time.min_of_day_x30": "15:00"
+    },
+    {
+      "count": 98,
+      "detector.type": "NoHeadSegment",
+      "time.min_of_day_x30": "21:30"
+    },
+    {
+      "count": 5629,
+      "detector.type": "listed_lpr_detected",
+      "time.min_of_day_x30": "09:30"
+    },
+    {
+      "count": 1338,
+      "detector.type": "listed_lpr_detected",
+      "time.min_of_day_x30": "00:00"
+    },
+    {
+      "count": 1381,
+      "detector.type": "faceAppeared",
+      "time.min_of_day_x30": "00:30"
+    },
+    {
+      "count": 1279,
+      "detector.type": "EvasionDetected",
+      "time.min_of_day_x30": "23:30"
+    },
+    {
+      "count": 486,
+      "detector.type": "NoOtherSegment",
+      "time.min_of_day_x30": "16:00"
+    },
+    {
+      "count": 1737,
+      "detector.type": "faceAppeared",
+      "time.min_of_day_x30": "21:30"
+    },
+    {
+      "count": 3450,
+      "detector.type": "listed_lpr_detected",
+      "time.min_of_day_x30": "08:30"
+    },
+    {
+      "count": 81,
+      "detector.type": "NoHandSegment",
+      "time.min_of_day_x30": "06:30"
+    },
+    {
+      "count": 438,
+      "detector.type": "QueueDetected",
+      "time.min_of_day_x30": "11:00"
+    },
+    {
+      "count": 1332,
+      "detector.type": "listed_lpr_detected",
+      "time.min_of_day_x30": "01:00"
+    },
+    {
+      "count": 654,
+      "detector.type": "moveInZone",
+      "time.min_of_day_x30": "15:00"
+    },
+    {
+      "count": 242,
+      "detector.type": "NoOtherSegment",
+      "time.min_of_day_x30": "17:00"
+    },
+    {
+      "count": 1285,
+      "detector.type": "EvasionDetected",
+      "time.min_of_day_x30": "22:30"
+    },
+    {
+      "count": 1448,
+      "detector.type": "People",
+      "time.min_of_day_x30": "13:00"
+    },
+    {
+      "count": 1039,
+      "detector.type": "People",
+      "time.min_of_day_x30": "18:30"
+    },
+    {
+      "count": 2190,
+      "detector.type": "oneLine",
+      "time.min_of_day_x30": "15:30"
+    },
+    {
+      "count": 1436,
+      "detector.type": "bodyTemperature",
+      "time.min_of_day_x30": "14:00"
+    },
+    {
+      "count": 135,
+      "detector.type": "peopleDistance",
+      "time.min_of_day_x30": "21:00"
+    },
+    {
+      "count": 149,
+      "detector.type": "NoHeadSegment",
+      "time.min_of_day_x30": "10:30"
+    },
+    {
+      "count": 1579,
+      "detector.type": "bodyTemperature",
+      "time.min_of_day_x30": "15:00"
+    },
+    {
+      "count": 173,
+      "detector.type": "peopleDistance",
+      "time.min_of_day_x30": "20:00"
+    },
+    {
+      "count": 6915,
+      "detector.type": "faceAppeared",
+      "time.min_of_day_x30": "10:30"
+    },
+    {
+      "count": 1427,
+      "detector.type": "bodyTemperature",
+      "time.min_of_day_x30": "16:00"
+    },
+    {
+      "count": 64,
+      "detector.type": "peopleDistance",
+      "time.min_of_day_x30": "23:00"
+    },
+    {
+      "count": 207,
+      "detector.type": "People",
+      "time.min_of_day_x30": "22:00"
+    },
+    {
+      "count": 149,
+      "detector.type": "QueueDetected",
+      "time.min_of_day_x30": "01:00"
+    },
+    {
+      "count": 196,
+      "detector.type": "NoHandSegment",
+      "time.min_of_day_x30": "16:30"
+    },
+    {
+      "count": 207,
+      "detector.type": "People",
+      "time.min_of_day_x30": "03:00"
+    },
+    {
+      "count": 1434,
+      "detector.type": "bodyTemperature",
+      "time.min_of_day_x30": "17:00"
+    },
+    {
+      "count": 461,
+      "detector.type": "QueueDetected",
+      "time.min_of_day_x30": "20:00"
+    },
+    {
+      "count": 70,
+      "detector.type": "peopleDistance",
+      "time.min_of_day_x30": "22:00"
+    },
+    {
+      "count": 857,
+      "detector.type": "People",
+      "time.min_of_day_x30": "09:30"
+    },
+    {
+      "count": 580,
+      "detector.type": "oneLine",
+      "time.min_of_day_x30": "04:30"
+    },
+    {
+      "count": 122,
+      "detector.type": "NoOtherSegment",
+      "time.min_of_day_x30": "07:00"
+    },
+    {
+      "count": 5626,
+      "detector.type": "listed_lpr_detected",
+      "time.min_of_day_x30": "11:00"
+    },
+    {
+      "count": 3203,
+      "detector.type": "listed_lpr_detected",
+      "time.min_of_day_x30": "18:30"
+    },
+    {
+      "count": 69,
+      "detector.type": "NoHeadSegment",
+      "time.min_of_day_x30": "01:30"
+    },
+    {
+      "count": 123,
+      "detector.type": "NoOtherSegment",
+      "time.min_of_day_x30": "06:00"
+    },
+    {
+      "count": 5644,
+      "detector.type": "listed_lpr_detected",
+      "time.min_of_day_x30": "10:00"
+    },
+    {
+      "count": 133,
+      "detector.type": "NoHeadSegment",
+      "time.min_of_day_x30": "20:30"
+    },
+    {
+      "count": 4184,
+      "detector.type": "listed_lpr_detected",
+      "time.min_of_day_x30": "19:30"
+    },
+    {
+      "count": 1380,
+      "detector.type": "faceAppeared",
+      "time.min_of_day_x30": "01:30"
+    },
+    {
+      "count": 121,
+      "detector.type": "NoOtherSegment",
+      "time.min_of_day_x30": "05:00"
+    },
+    {
+      "count": 4650,
+      "detector.type": "faceAppeared",
+      "time.min_of_day_x30": "20:30"
+    },
+    {
+      "count": 5924,
+      "detector.type": "listed_lpr_detected",
+      "time.min_of_day_x30": "13:00"
+    },
+    {
+      "count": 626,
+      "detector.type": "moveInZone",
+      "time.min_of_day_x30": "14:00"
+    },
+    {
+      "count": 77,
+      "detector.type": "NoHandSegment",
+      "time.min_of_day_x30": "07:30"
+    },
+    {
+      "count": 123,
+      "detector.type": "NoOtherSegment",
+      "time.min_of_day_x30": "04:00"
+    },
+    {
+      "count": 561,
+      "detector.type": "QueueDetected",
+      "time.min_of_day_x30": "10:00"
+    },
+    {
+      "count": 4234,
+      "detector.type": "People",
+      "time.min_of_day_x30": "12:00"
+    },
+    {
+      "count": 7272,
+      "detector.type": "listed_lpr_detected",
+      "time.min_of_day_x30": "12:00"
+    },
+    {
+      "count": 1079,
+      "detector.type": "bodyTemperature",
+      "time.min_of_day_x30": "07:00"
+    },
+    {
+      "count": 2360,
+      "detector.type": "oneLine",
+      "time.min_of_day_x30": "14:30"
+    },
+    {
+      "count": 1237,
+      "detector.type": "People",
+      "time.min_of_day_x30": "19:30"
+    },
+    {
+      "count": 270,
+      "detector.type": "NoHeadSegment",
+      "time.min_of_day_x30": "11:30"
+    },
+    {
+      "count": 1079,
+      "detector.type": "bodyTemperature",
+      "time.min_of_day_x30": "06:00"
+    },
+    {
+      "count": 1079,
+      "detector.type": "bodyTemperature",
+      "time.min_of_day_x30": "05:00"
+    },
+    {
+      "count": 13702,
+      "detector.type": "faceAppeared",
+      "time.min_of_day_x30": "11:30"
+    },
+    {
+      "count": 146,
+      "detector.type": "QueueDetected",
+      "time.min_of_day_x30": "00:00"
+    },
+    {
+      "count": 1077,
+      "detector.type": "bodyTemperature",
+      "time.min_of_day_x30": "04:00"
+    },
+    {
+      "count": 163,
+      "detector.type": "NoHandSegment",
+      "time.min_of_day_x30": "17:30"
+    },
+    {
+      "count": 208,
+      "detector.type": "People",
+      "time.min_of_day_x30": "23:00"
+    },
+    {
+      "count": 299,
+      "detector.type": "QueueDetected",
+      "time.min_of_day_x30": "21:00"
+    },
+    {
+      "count": 207,
+      "detector.type": "People",
+      "time.min_of_day_x30": "02:00"
+    }
+  ],
+  "total": 645
+}

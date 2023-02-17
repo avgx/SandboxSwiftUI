@@ -1,0 +1,62 @@
+{
+  "result": [
+    {
+      "key": "People",
+      "translation": "People detector"
+    },
+    {
+      "key": "listed_face_detected",
+      "translation": "Faces from list detector"
+    },
+    {
+      "key": "listed_lpr_detected",
+      "translation": "Licence plates from list detector"
+    },
+    {
+      "key": "EvasionDetected",
+      "translation": "Face mask absence detector"
+    },
+    {
+      "key": "NoOtherSegment",
+      "translation": "Other"
+    },
+    {
+      "key": "bodyTemperature",
+      "translation": "Body temperature detector"
+    },
+    {
+      "key": "QueueDetected",
+      "translation": "Queue detector"
+    },
+    {
+      "key": "oneLine",
+      "translation": "Line crossing detector"
+    },
+    {
+      "key": "peopleDistance",
+      "translation": "People distance violation detector"
+    },
+    {
+      "key": "faceAppeared",
+      "translation": "Faces detector"
+    },
+    {
+      "key": "NoHeadSegment",
+      "translation": "Head"
+    },
+    {
+      "key": "NoHandSegment",
+      "translation": "Hands"
+    },
+    {
+      "key": "plateRecognized",
+      "translation": "LPR detector"
+    },
+    {
+      "key": "moveInZone",
+      "translation": "Move in zone"
+    }
+  ],
+  "status": 200,
+  "total": 14
+}

@@ -1,0 +1,295 @@
+{
+  "result": [
+    {
+      "camera": "A-KUDAEV/DeviceIpint.2/SourceEndpoint.video:0:0",
+      "count": 46494,
+      "detector.type": "plateRecognized"
+    },
+    {
+      "camera": "A-KUDAEV/DeviceIpint.30/SourceEndpoint.video:0:0",
+      "count": 11615,
+      "detector.type": "moveInZone"
+    },
+    {
+      "camera": "AIDA/DeviceIpint.2/SourceEndpoint.video:0:0",
+      "count": 1999,
+      "detector.type": "plateRecognized"
+    },
+    {
+      "camera": "A-KUDAEV/DeviceIpint.4/SourceEndpoint.video:0:0",
+      "count": 149,
+      "detector.type": "NoHandSegment"
+    },
+    {
+      "camera": "M-CHERKESOV/DeviceIpint.2/SourceEndpoint.video:0:0",
+      "count": 46438,
+      "detector.type": "listed_lpr_detected"
+    },
+    {
+      "camera": "ARTEM-DESKTOP/DeviceIpint.1/SourceEndpoint.video:0:0",
+      "count": 19770,
+      "detector.type": "faceAppeared"
+    },
+    {
+      "camera": "M-CHERKESOV/DeviceIpint.6/SourceEndpoint.video:0:0",
+      "count": 15370,
+      "detector.type": "QueueDetected"
+    },
+    {
+      "camera": "AIDA/DeviceIpint.24/SourceEndpoint.video:0:0",
+      "count": 1751,
+      "detector.type": "faceAppeared"
+    },
+    {
+      "camera": "A-KUDAEV/DeviceIpint.4/SourceEndpoint.video:0:0",
+      "count": 162,
+      "detector.type": "NoOtherSegment"
+    },
+    {
+      "camera": "M-CHERKESOV/DeviceIpint.8/SourceEndpoint.video:0:0",
+      "count": 60717,
+      "detector.type": "bodyTemperature"
+    },
+    {
+      "camera": "A-KUDAEV/DeviceIpint.8/SourceEndpoint.video:0:0",
+      "count": 284,
+      "detector.type": "EvasionDetected"
+    },
+    {
+      "camera": "M-CHERKESOV/DeviceIpint.7/SourceEndpoint.video:0:0",
+      "count": 7037,
+      "detector.type": "peopleDistance"
+    },
+    {
+      "camera": "AIDA/DeviceIpint.6/SourceEndpoint.video:0:0",
+      "count": 10460,
+      "detector.type": "listed_lpr_detected"
+    },
+    {
+      "camera": "SMART-GENERATOR/DeviceIpint.5/SourceEndpoint.video:0:0",
+      "count": 25323,
+      "detector.type": "listed_lpr_detected"
+    },
+    {
+      "camera": "A-KUDAEV/DeviceIpint.8/SourceEndpoint.video:0:0",
+      "count": 252,
+      "detector.type": "listed_face_detected"
+    },
+    {
+      "camera": "AIDA/DeviceIpint.1/SourceEndpoint.video:0:0",
+      "count": 3718,
+      "detector.type": "listed_face_detected"
+    },
+    {
+      "camera": "M-CHERKESOV/DeviceIpint.3/SourceEndpoint.video:0:0",
+      "count": 44449,
+      "detector.type": "plateRecognized"
+    },
+    {
+      "camera": "AIDA/DeviceIpint.1/SourceEndpoint.video:0:0",
+      "count": 8095,
+      "detector.type": "faceAppeared"
+    },
+    {
+      "camera": "AIDA/DeviceIpint.24/SourceEndpoint.video:0:0",
+      "count": 1915,
+      "detector.type": "EvasionDetected"
+    },
+    {
+      "camera": "M-CHERKESOV/DeviceIpint.1/SourceEndpoint.video:0:0",
+      "count": 30240,
+      "detector.type": "listed_face_detected"
+    },
+    {
+      "camera": "A-KUDAEV/DeviceIpint.6/SourceEndpoint.video:0:0",
+      "count": 81,
+      "detector.type": "QueueDetected"
+    },
+    {
+      "camera": "A-KUDAEV/DeviceIpint.2/SourceEndpoint.video:0:0",
+      "count": 26497,
+      "detector.type": "listed_lpr_detected"
+    },
+    {
+      "camera": "M-CHERKESOV/DeviceIpint.8/SourceEndpoint.video:0:0",
+      "count": 41511,
+      "detector.type": "EvasionDetected"
+    },
+    {
+      "camera": "M-CHERKESOV/DeviceIpint.3/SourceEndpoint.video:0:0",
+      "count": 46835,
+      "detector.type": "listed_lpr_detected"
+    },
+    {
+      "camera": "AIDA/DeviceIpint.8/SourceEndpoint.video:0:0",
+      "count": 9250,
+      "detector.type": "EvasionDetected"
+    },
+    {
+      "camera": "AIDA/DeviceIpint.15/SourceEndpoint.video:0:0",
+      "count": 762,
+      "detector.type": "QueueDetected"
+    },
+    {
+      "camera": "ARTEM-DESKTOP/DeviceIpint.2/SourceEndpoint.video:0:0",
+      "count": 13631,
+      "detector.type": "faceAppeared"
+    },
+    {
+      "camera": "M-CHERKESOV/DeviceIpint.8/SourceEndpoint.video:0:0",
+      "count": 60760,
+      "detector.type": "faceAppeared"
+    },
+    {
+      "camera": "M-CHERKESOV/DeviceIpint.1/SourceEndpoint.video:0:0",
+      "count": 39803,
+      "detector.type": "faceAppeared"
+    },
+    {
+      "camera": "M-CHERKESOV/DeviceIpint.1/SourceEndpoint.video:0:0",
+      "count": 56821,
+      "detector.type": "EvasionDetected"
+    },
+    {
+      "camera": "AIDA/DeviceIpint.21/SourceEndpoint.video:0:0",
+      "count": 2194,
+      "detector.type": "People"
+    },
+    {
+      "camera": "A-KUDAEV/DeviceIpint.1/SourceEndpoint.video:0:0",
+      "count": 40431,
+      "detector.type": "faceAppeared"
+    },
+    {
+      "camera": "A-KUDAEV/DeviceIpint.8/SourceEndpoint.video:0:0",
+      "count": 1322,
+      "detector.type": "bodyTemperature"
+    },
+    {
+      "camera": "A-KUDAEV/DeviceIpint.4/SourceEndpoint.video:0:0",
+      "count": 89,
+      "detector.type": "NoHeadSegment"
+    },
+    {
+      "camera": "M-CHERKESOV/DeviceIpint.5/SourceEndpoint.video:0:0",
+      "count": 59486,
+      "detector.type": "oneLine"
+    },
+    {
+      "camera": "A-KUDAEV/DeviceIpint.5/SourceEndpoint.video:0:0",
+      "count": 1370,
+      "detector.type": "oneLine"
+    },
+    {
+      "camera": "AIDA/DeviceIpint.8/SourceEndpoint.video:0:0",
+      "count": 8172,
+      "detector.type": "faceAppeared"
+    },
+    {
+      "camera": "A-KUDAEV/DeviceIpint.3/SourceEndpoint.video:0:0",
+      "count": 1811,
+      "detector.type": "listed_lpr_detected"
+    },
+    {
+      "camera": "AIDA/DeviceIpint.8/SourceEndpoint.video:0:0",
+      "count": 3116,
+      "detector.type": "listed_face_detected"
+    },
+    {
+      "camera": "AIDA/DeviceIpint.2/SourceEndpoint.video:0:0",
+      "count": 2268,
+      "detector.type": "listed_lpr_detected"
+    },
+    {
+      "camera": "AIDA/DeviceIpint.6/SourceEndpoint.video:0:0",
+      "count": 8939,
+      "detector.type": "plateRecognized"
+    },
+    {
+      "camera": "AIDA/DeviceIpint.7/SourceEndpoint.video:0:0",
+      "count": 34630,
+      "detector.type": "faceAppeared"
+    },
+    {
+      "camera": "M-CHERKESOV/DeviceIpint.4/SourceEndpoint.video:0:0",
+      "count": 6913,
+      "detector.type": "NoHeadSegment"
+    },
+    {
+      "camera": "M-CHERKESOV/DeviceIpint.4/SourceEndpoint.video:0:0",
+      "count": 7844,
+      "detector.type": "NoHandSegment"
+    },
+    {
+      "camera": "M-CHERKESOV/DeviceIpint.5/SourceEndpoint.video:0:0",
+      "count": 21327,
+      "detector.type": "People"
+    },
+    {
+      "camera": "T-OZARUKOV-1/DeviceIpint.17/SourceEndpoint.video:0:0",
+      "count": 268,
+      "detector.type": "oneLine"
+    },
+    {
+      "camera": "AIDA/DeviceIpint.24/SourceEndpoint.video:0:0",
+      "count": 651,
+      "detector.type": "listed_face_detected"
+    },
+    {
+      "camera": "A-KUDAEV/DeviceIpint.1/SourceEndpoint.video:0:0",
+      "count": 28781,
+      "detector.type": "listed_face_detected"
+    },
+    {
+      "camera": "AIDA/DeviceIpint.13/SourceEndpoint.video:0:0",
+      "count": 7363,
+      "detector.type": "People"
+    },
+    {
+      "camera": "A-KUDAEV/DeviceIpint.7/SourceEndpoint.video:0:0",
+      "count": 297,
+      "detector.type": "peopleDistance"
+    },
+    {
+      "camera": "A-KUDAEV/DeviceIpint.5/SourceEndpoint.video:0:0",
+      "count": 5538,
+      "detector.type": "People"
+    },
+    {
+      "camera": "AIDA/DeviceIpint.20/SourceEndpoint.video:0:0",
+      "count": 312,
+      "detector.type": "oneLine"
+    },
+    {
+      "camera": "M-CHERKESOV/DeviceIpint.4/SourceEndpoint.video:0:0",
+      "count": 12602,
+      "detector.type": "NoOtherSegment"
+    },
+    {
+      "camera": "M-CHERKESOV/DeviceIpint.2/SourceEndpoint.video:0:0",
+      "count": 44058,
+      "detector.type": "plateRecognized"
+    },
+    {
+      "camera": "AIDA/DeviceIpint.7/SourceEndpoint.video:0:0",
+      "count": 16413,
+      "detector.type": "listed_face_detected"
+    },
+    {
+      "camera": "A-KUDAEV/DeviceIpint.8/SourceEndpoint.video:0:0",
+      "count": 614,
+      "detector.type": "faceAppeared"
+    },
+    {
+      "camera": "A-KUDAEV/DeviceIpint.3/SourceEndpoint.video:0:0",
+      "count": 1824,
+      "detector.type": "plateRecognized"
+    },
+    {
+      "camera": "M-CHERKESOV/DeviceIpint.8/SourceEndpoint.video:0:0",
+      "count": 16545,
+      "detector.type": "listed_face_detected"
+    }
+  ],
+  "total": 58
+}

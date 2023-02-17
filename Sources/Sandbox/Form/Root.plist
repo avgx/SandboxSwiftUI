@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>StringsTable</key>
+        <string>Root</string>
+        <key>PreferenceSpecifiers</key>
+        <array>
+            
+            <dict>
+                <key>Type</key>
+                <string>PSMultiValueSpecifier</string>
+                <key>Title</key>
+                <string>Camera list</string>
+                <key>Key</key>
+                <string>ux_camera_list_mode</string>
+                <key>DefaultValue</key>
+                <string>grid</string>
+                <key>Values</key>
+                <array>
+                    <string>grid</string>
+                    <string>list</string>
+                </array>
+                <key>Titles</key>
+                <array>
+                    <string>grid</string>
+                    <string>list</string>
+                </array>
+            </dict>
+            <dict>
+                <key>Type</key>
+                <string>PSMultiValueSpecifier</string>
+                <key>Title</key>
+                <string>Camera sort</string>
+                <key>Key</key>
+                <string>ux_camera_sort</string>
+                <key>DefaultValue</key>
+                <string>name</string>
+                <key>Values</key>
+                <array>
+                    <string>unsorted</string>
+                    <string>id</string>
+                    <string>name</string>
+                    <string>manual</string>
+                </array>
+                <key>Titles</key>
+                <array>
+                    <string>unsorted</string>
+                    <string>by id</string>
+                    <string>by name</string>
+                    <string>manual</string>
+                </array>
+            </dict>
+            <dict>
+                <key>Type</key>
+                <string>PSToggleSwitchSpecifier</string>
+                <key>Title</key>
+                <string>Id prefix in camera name</string>
+                <key>Key</key>
+                <string>ux_camera_with_id</string>
+                <key>DefaultValue</key>
+                <false/>
+            </dict>
+            <dict>
+                <key>Type</key>
+                <string>PSToggleSwitchSpecifier</string>
+                <key>Title</key>
+                <string>Show only activated cameras</string>
+                <key>Key</key>
+                <string>ux_camera_only_active</string>
+                <key>DefaultValue</key>
+                <true/>
+            </dict>
+            <dict>
+                <key>Type</key>
+                <string>PSMultiValueSpecifier</string>
+                <key>Title</key>
+                <string>Event list</string>
+                <key>Key</key>
+                <string>ux_event_list_mode2</string>
+                <key>DefaultValue</key>
+                <string>list</string>
+                <key>Values</key>
+                <array>
+                    <string>feed</string>
+                    <string>grid</string>
+                    <string>list</string>
+                    <string>table</string>
+                </array>
+                <key>Titles</key>
+                <array>
+                    <string>feed</string>
+                    <string>grid</string>
+                    <string>list</string>
+                    <string>table</string>
+                </array>
+            </dict>
+            
+            <dict>
+                <key>Type</key>
+                <string>PSGroupSpecifier</string>
+                <key>Title</key>
+                <string>Timeline UX</string>
+                <key>FooterText</key>
+                <string>Timeline usability customization</string>
+            </dict>
+            <dict>
+                <key>Type</key>
+                <string>PSMultiValueSpecifier</string>
+                <key>Title</key>
+                <string>Timeline type</string>
+                <key>Key</key>
+                <string>ux_timeline_type</string>
+                <key>DefaultValue</key>
+                <string>complex</string>
+                <key>Values</key>
+                <array>
+                    <string>complex2</string>
+                    <string>complex</string>
+                    <string>simple2</string>
+                    <string>simple</string>
+                </array>
+                <key>Titles</key>
+                <array>
+                    <string>Сomplex (experimental)</string>
+                    <string>Complex (stable)</string>
+                    <string>Simple (experimental)</string>
+                    <string>Simple (stable)</string>
+                </array>
+            </dict>
+            <dict>
+                <key>Type</key>
+                <string>PSGroupSpecifier</string>
+                <key>Title</key>
+                <string>VLC settings</string>
+                <key>FooterText</key>
+                <string>Settings used to initialize vlc library</string>
+            </dict>
+            <dict>
+                <key>Type</key>
+                <string>PSToggleSwitchSpecifier</string>
+                <key>Title</key>
+                <string>Hardware Decoding</string>
+                <key>Key</key>
+                <string>vlc_hardware_decoding</string>
+                <key>DefaultValue</key>
+                <true/>
+            </dict>
+            <dict>
+                <key>Type</key>
+                <string>PSToggleSwitchSpecifier</string>
+                <key>Title</key>
+                <string>No drop late frames</string>
+                <key>Key</key>
+                <string>vlc_no_drop_late_frames</string>
+                <key>DefaultValue</key>
+                <true/>
+            </dict>
+            <dict>
+                <key>Type</key>
+                <string>PSToggleSwitchSpecifier</string>
+                <key>Title</key>
+                <string>No skip frames</string>
+                <key>Key</key>
+                <string>vlc_no_skip_frames</string>
+                <key>DefaultValue</key>
+                <true/>
+            </dict>
+            <dict>
+                <key>Type</key>
+                <string>PSToggleSwitchSpecifier</string>
+                <key>Title</key>
+                <string>No audio</string>
+                <key>Key</key>
+                <string>vlc_no_audio</string>
+                <key>DefaultValue</key>
+                <false/>
+            </dict>
+            <dict>
+                <key>Type</key>
+                <string>PSToggleSwitchSpecifier</string>
+                <key>Title</key>
+                <string>Logging</string>
+                <key>Key</key>
+                <string>vlc_vvvv</string>
+                <key>DefaultValue</key>
+                <false/>
+            </dict>
+        </array>
+    </dict>
+</plist>
